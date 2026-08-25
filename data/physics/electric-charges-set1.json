@@ -1,0 +1,42 @@
+{
+  "title": "Electric Charges and Fields - Sample Set 1",
+  "subject": "Physics",
+  "questions": [
+    {
+      "question": "The SI unit of electric charge is:",
+      "options": [
+        "Volt",
+        "Coulomb",
+        "Ampere",
+        "Ohm"
+      ],
+      "answer": 1,
+      "explanation": "The SI unit of electric charge is coulomb (C).",
+      "topic": "Electric charge"
+    },
+    {
+      "question": "The force between two point charges varies inversely as:",
+      "options": [
+        "$r$",
+        "$r^2$",
+        "$1/r$",
+        "$1/r^2$"
+      ],
+      "answer": 3,
+      "explanation": "Coulomb's law states that the electrostatic force is inversely proportional to the square of the distance between the charges.",
+      "topic": "Coulomb's law"
+    },
+    {
+      "question": "The electric field due to a point charge $q$ at distance $r$ is:",
+      "options": [
+        "$\\frac{q}{4\\pi\\epsilon_0 r^2}$",
+        "$\\frac{q}{4\\pi\\epsilon_0 r}$",
+        "$\\frac{4\\pi\\epsilon_0 q}{r^2}$",
+        "$\\frac{q r^2}{4\\pi\\epsilon_0}$"
+      ],
+      "answer": 0,
+      "explanation": "For a point charge, $E = \\frac{1}{4\\pi\\epsilon_0}\\frac{q}{r^2}$.",
+      "topic": "Electric field"
+    }
+  ]
+}

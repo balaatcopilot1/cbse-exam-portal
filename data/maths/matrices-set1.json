@@ -1,0 +1,30 @@
+{
+  "title": "Matrices - Sample Set 1",
+  "subject": "Maths",
+  "questions": [
+    {
+      "question": "If a matrix has $m$ rows and $n$ columns, its order is:",
+      "options": [
+        "$n \\times m$",
+        "$m+n$",
+        "$m \\times n$",
+        "$m-n$"
+      ],
+      "answer": 2,
+      "explanation": "The order of a matrix is written as number of rows × number of columns.",
+      "topic": "Matrices - Order"
+    },
+    {
+      "question": "The transpose of a matrix changes its rows into:",
+      "options": [
+        "Columns",
+        "Diagonals",
+        "Determinants",
+        "Scalars"
+      ],
+      "answer": 0,
+      "explanation": "In the transpose, rows of the original matrix become columns.",
+      "topic": "Transpose of a matrix"
+    }
+  ]
+}

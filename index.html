@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Class 12 Exam Portal</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']] },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Class 12 Exam Portal</div>
+    <div class="subtitle">Physics • Chemistry • Maths</div>
+  </header>
+
+  <main class="container">
+    <section id="homeView" class="view">
+      <div class="hero">
+        <h1>Practice Exams</h1>
+        <p>Select a subject and question set to begin.</p>
+      </div>
+
+      <div class="subject-grid">
+        <button class="subject-card physics" data-subject="Physics">
+          <span class="subject-icon">⚡</span>
+          <span>Physics</span>
+        </button>
+        <button class="subject-card chemistry" data-subject="Chemistry">
+          <span class="subject-icon">⚗</span>
+          <span>Chemistry</span>
+        </button>
+        <button class="subject-card maths" data-subject="Maths">
+          <span class="subject-icon">∑</span>
+          <span>Maths</span>
+        </button>
+      </div>
+    </section>
+
+    <section id="setsView" class="view hidden">
+      <button class="back-button" id="backToSubjects">← Subjects</button>
+      <div class="section-heading">
+        <h1 id="setsTitle">Question Sets</h1>
+        <p>Select an exam set.</p>
+      </div>
+      <div id="setsList" class="sets-list"></div>
+    </section>
+
+    <section id="examView" class="view hidden">
+      <div class="exam-header">
+        <div>
+          <div class="eyebrow" id="examSubject"></div>
+          <h1 id="examTitle"></h1>
+        </div>
+        <button class="exit-button" id="exitExam">Exit</button>
+      </div>
+
+      <div class="progress-row">
+        <span id="questionCounter"></span>
+        <span id="answeredCounter"></span>
+      </div>
+      <div class="progress-track"><div id="progressBar"></div></div>
+
+      <div id="questionCard" class="question-card">
+        <div id="questionText" class="question-text"></div>
+        <div id="options" class="options"></div>
+      </div>
+
+      <div id="navigator" class="navigator"></div>
+
+      <div class="exam-actions">
+        <button class="secondary-button" id="previousButton">← Previous</button>
+        <button class="primary-button" id="nextButton">Next →</button>
+      </div>
+    </section>
+
+    <section id="resultView" class="view hidden">
+      <div class="result-card">
+        <div class="eyebrow">EXAM COMPLETED</div>
+        <h1 id="resultTitle"></h1>
+        <div class="score" id="scoreText"></div>
+        <div class="percentage" id="percentageText"></div>
+
+        <div class="stats">
+          <div><strong id="correctCount">0</strong><span>Correct</span></div>
+          <div><strong id="wrongCount">0</strong><span>Wrong</span></div>
+          <div><strong id="unansweredCount">0</strong><span>Unanswered</span></div>
+        </div>
+
+        <div class="result-actions">
+          <button class="primary-button" id="reviewButton">Review Answers</button>
+          <button class="secondary-button" id="homeButton">Back to Home</button>
+        </div>
+      </div>
+
+      <div id="reviewSection" class="review-section hidden">
+        <h2>Answer Review</h2>
+        <div id="reviewList"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Personal Class 12 practice portal
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
