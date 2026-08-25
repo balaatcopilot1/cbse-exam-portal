@@ -1,13 +1,8 @@
 [
   {
     "subject": "Physics",
-    "title": "Electric Charges and Fields - Sample Set 1",
-    "file": "data/physics/electric-charges-set1.json"
-  },
-  {
-    "subject": "Physics",
-    "title": "Electric Charges and Fields - Sample Set 2",
-    "file": "data/physics/electric-charges-set2.json"
+    "title": "Moving Charges and Magnetism - Set 1 - AI",
+    "file": "data/physics/cbse-class12-physics-chapter4-moving-charges-magnetism-mcqs-v4.json"
   },
   {
     "subject": "Chemistry",
