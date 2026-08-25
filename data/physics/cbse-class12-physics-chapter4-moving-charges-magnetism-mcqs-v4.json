@@ -1,0 +1,750 @@
+{
+  "title": "Moving Charges and Magnetism MCQ Question Bank",
+  "subject": "Physics",
+  "questions": [
+    {
+      "question": "In the summer of 1820, which Danish physicist experimentally discovered that an electric current in a straight wire deflects a nearby magnetic compass needle?",
+      "options": [
+        "André-Marie Ampère",
+        "Hans Christian Oersted",
+        "Michael Faraday",
+        "James Clerk Maxwell"
+      ],
+      "answer": 1,
+      "explanation": "Hans Christian Oersted observed the deflection of a compass needle near a current-carrying wire in the summer of 1820, providing the first empirical evidence of a connection between electricity and magnetism.",
+      "topic": "Historical Introduction"
+    },
+    {
+      "question": "When iron filings are sprinkled around a long, straight, vertical current-carrying wire on a horizontal plane, they arrange themselves in:",
+      "options": [
+        "Parallel straight lines along the wire",
+        "Radial lines starting from the wire",
+        "Concentric circles with the wire at the centre",
+        "Helical curves wrapping around the wire"
+      ],
+      "answer": 2,
+      "explanation": "As shown in NCERT Fig 4.1(c), iron filings arrange themselves in concentric circles centered on the wire, reflecting the circular symmetry of the magnetic field lines.",
+      "topic": "Oersted's Experiment Observations"
+    },
+    {
+      "question": "The laws governing electricity and magnetism were unified and formulated into a set of equations in the year 1864 by:",
+      "options": [
+        "Hendrik Antoon Lorentz",
+        "James Clerk Maxwell",
+        "Heinrich Hertz",
+        "Guglielmo Marconi"
+      ],
+      "answer": 1,
+      "explanation": "James Clerk Maxwell unified the laws of electricity and magnetism in 1864, formulating what are now known as Maxwell's equations and showing that light is an electromagnetic wave.",
+      "topic": "Electromagnetism Unification"
+    },
+    {
+      "question": "Radio waves were discovered by Heinrich Hertz, and were subsequently produced in laboratory settings by the end of the 19th century by:",
+      "options": [
+        "M. Ampère",
+        "H.",
+        "Hans Christian Oersted and Michael Faraday",
+        "Nicola Tesla and Albert Einstein"
+      ],
+      "answer": 0,
+      "explanation": "Radio waves, discovered by Hertz, were produced at the end of the 19th century by J.C. Bose in India and G. Marconi in Italy, leading to major technological progress in the 20th century.",
+      "topic": "Electromagnetic Waves History"
+    },
+    {
+      "question": "In textbook diagrams of electromagnetism, what is the standard notation convention used to represent a current or field emerging perpendicularly out of the plane of the paper?",
+      "options": [
+        "A cross ( $\\otimes$ ) resembling the feathered tail of an arrow moving away",
+        "A dot ( $\\odot$ ) resembling the tip of an arrow pointed at the reader",
+        "A straight upward pointing arrow ( $\\uparrow$ )",
+        "A clockwise circular loop ( $\\circlearrowright$ )"
+      ],
+      "answer": 1,
+      "explanation": "The NCERT convention states: A current or field emerging out of the paper is depicted by a dot ( $\\odot$ ), representing the tip of an arrow. A cross ( $\\otimes$ ) represents a current or field going into the paper, resembling the feathered tail of an arrow.",
+      "topic": "Diagrammatic Conventions"
+    },
+    {
+      "question": "If a test charge $q$ is located at position $\\vec{r}$ at time $t$ moving with velocity $\\vec{v}$ in a region containing both electric field $\\vec{E}(\\vec{r})$ and magnetic field $\\vec{B}(\\vec{r})$, the total Lorentz force is given by:",
+      "options": [
+        "$\\vec{F} = q [\\vec{E}(\\vec{r}) - \\vec{v} \\times \\vec{B}(\\vec{r})]$",
+        "$\\vec{F} = q [\\vec{E}(\\vec{r}) + \\vec{v} \\times \\vec{B}(\\vec{r})]$",
+        "$\\vec{F} = q [\\vec{E}(\\vec{r}) \\cdot (\\vec{v} \\times \\vec{B}(\\vec{r}))]$",
+        "$\\vec{F} = q [\\vec{E}(\\vec{r}) + \\vec{B}(\\vec{r}) \\times \\vec{v}]$"
+      ],
+      "answer": 1,
+      "explanation": "The total Lorentz force is the vector sum of the electrostatic force $\\vec{F}_e = q\\vec{E}$ and the magnetic force $\\vec{F}_m = q(\\vec{v} \\times \\vec{B})$, as given in NCERT Eq. (4.3).",
+      "topic": "Lorentz Force Equation"
+    },
+    {
+      "question": "For which contribution to physics was the Dutch theoretical physicist Hendrik Antoon Lorentz awarded the Nobel Prize in 1902?",
+      "options": [
+        "Formulation of electromagnetic wave propagation equations",
+        "Discovery of radio waves in the laboratory",
+        "Postulating the existence of electric charges in the atom to explain the Zeeman effect",
+        "Unification of Newtonian mechanics and electromagnetism"
+      ],
+      "answer": 2,
+      "explanation": "Hendrik Antoon Lorentz was awarded the Nobel Prize in 1902 (jointly with Pieter Zeeman) for his work explaining the Zeeman effect by postulating electric charges in the atom.",
+      "topic": "Biography of Lorentz"
+    },
+    {
+      "question": "Under which of the following conditions does the magnetic component of the Lorentz force, $\\vec{F}_m = q(\\vec{v} \\times \\vec{B})$, become zero for a charge $q$?",
+      "options": [
+        "When the charge is moving perpendicularly to the magnetic field",
+        "When the charge is stationary ($|\\vec{v}| = 0$)",
+        "When the velocity vector is parallel or antiparallel to the magnetic field vector",
+        "Both B and C are correct"
+      ],
+      "answer": 3,
+      "explanation": "The magnitude of the magnetic force is $F_m = q v B \\sin\\theta$. It vanishes when the charge is at rest ($v = 0$) or when the velocity is parallel/antiparallel to the magnetic field ($\\theta = 0^\\circ$ or $180^\\circ$, so $\\sin\\theta = 0$).",
+      "topic": "Conditions for Zero Magnetic Force"
+    },
+    {
+      "question": "The SI unit of magnetic field $B$ is the tesla (T), named after Nikola Tesla. What is this unit expressed in terms of other fundamental SI units?",
+      "options": [
+        "Newton second per (coulomb metre) [ $\\text{N}\\cdot\\text{s}/(\\text{C}\\cdot\\text{m})$ ]",
+        "Newton per (ampere metre) [ $\\text{N}/(\\text{A}\\cdot\\text{m})$ ]",
+        "Newton per coulomb [ $\\text{N}/\\text{C}$ ]",
+        "Both A and B are correct"
+      ],
+      "answer": 3,
+      "explanation": "From $F = qvB$, $[B] = [\\text{F}/(qv)] = \\text{N}/(\\text{C}\\cdot\\text{m}\\cdot\\text{s}^{-1}) = \\text{N}\\cdot\\text{s}/(\\text{C}\\cdot\\text{m})$. Since current $I = q/t$, $\\text{C}/\\text{s} = \\text{A}$. Therefore, the unit can also be written as $\\text{N}/(\\text{A}\\cdot\\text{m})$.",
+      "topic": "S.I. Units of Magnetic Field"
+    },
+    {
+      "question": "The non-SI unit \"gauss\" (G) is frequently used to measure magnetic field strength. How many tesla (T) are there in 1 gauss (G)?",
+      "options": [
+        "$1\\text{ G} = 10^4\\text{ T}$",
+        "$1\\text{ G} = 10^{-4}\\text{ T}$",
+        "$1\\text{ G} = 10^{-5}\\text{ T}$",
+        "$1\\text{ G} = 10^7\\text{ T}$"
+      ],
+      "answer": 1,
+      "explanation": "As defined in Section 4.2.2 of the NCERT text, $1\\text{ gauss} = 10^{-4}\\text{ tesla}$.",
+      "topic": "Magnetic Field Unit Conversion"
+    },
+    {
+      "question": "According to the NCERT textbook, what is the approximate order of magnitude of the Earth's magnetic field at its surface?",
+      "options": [
+        "$1\\text{ T}$",
+        "$10^{-4}\\text{ T}$ (about $1\\text{ G}$)",
+        "$3.6 \\times 10^{-5}\\text{ T}$",
+        "$10^{-7}\\text{ T}$"
+      ],
+      "answer": 2,
+      "explanation": "Section 4.2.2 specifies: \"The earth’s magnetic field is about $3.6 \\times 10^{-5}\\text{ T}$.\"",
+      "topic": "Magnitude of Earth's Magnetic Field"
+    },
+    {
+      "question": "When a straight conducting rod of length $l$ carrying a steady current $I$ is placed in an external uniform magnetic field $\\vec{B}$, the magnetic force acting on it is given by:",
+      "options": [
+        "$\\vec{F} = I (\\vec{l} \\times \\vec{B})$ where $\\vec{l}$ points opposite to the current",
+        "$\\vec{F} = I (\\vec{B} \\times \\vec{l})$ where $\\vec{l}$ is along the current",
+        "$\\vec{F} = I (\\vec{l} \\times \\vec{B})$ where the direction of vector $\\vec{l}$ is identical to the current $I$",
+        "$\\vec{F} = I^2 (\\vec{l} \\times \\vec{B})$"
+      ],
+      "answer": 2,
+      "explanation": "The force on a straight current-carrying conductor is $\\vec{F} = I \\vec{l} \\times \\vec{B}$ (NCERT Eq. 4.4). Here, $\\vec{l}$ is a vector of magnitude equal to the length $l$ of the rod, and its direction is chosen to be identical to that of the current flow.",
+      "topic": "Force on a Current-Carrying Conductor"
+    },
+    {
+      "question": "(Example 4.1) A straight horizontal wire of mass $200\\text{ g}$ and length $1.5\\text{ m}$ carries a current of $2\\text{ A}$. What must be the magnitude of a horizontal uniform magnetic field perpendicular to the wire so that the wire is suspended in mid-air? (Take $g = 9.8\\text{ m/s}^2$)",
+      "options": [
+        "$0.65\\text{ T}$",
+        "$0.33\\text{ T}$",
+        "$1.30\\text{ T}$",
+        "$0.065\\text{ T}$"
+      ],
+      "answer": 0,
+      "explanation": "For mid-air suspension, the upward magnetic force must balance the downward gravitational force: $$mg = I l B \\implies B = \\frac{mg}{Il}$$ $$B = \\frac{0.2\\text{ kg} \\times 9.8\\text{ m/s}^2}{2\\text{ A} \\times 1.5\\text{ m}} = \\frac{1.96}{3.0} \\approx 0.65\\text{ T}$$",
+      "topic": "Mid-air Suspension Calculation"
+    },
+    {
+      "question": "(Example 4.2) If a uniform magnetic field is directed parallel to the positive y-axis ($+\\hat{j}$) and a proton (positive charge) is moving along the positive x-axis ($+\\hat{i}$), what is the direction of the magnetic force acting on it?",
+      "options": [
+        "Along the positive z-axis ($+\\hat{k}$)",
+        "Along the negative z-axis ($-\\hat{k}$)",
+        "Along the negative y-axis ($-\\hat{j}$)",
+        "The force is zero"
+      ],
+      "answer": 0,
+      "explanation": "The force is $\\vec{F} = q (\\vec{v} \\times \\vec{B})$. Since the proton has a positive charge ($q > 0$), velocity $\\vec{v} = v\\hat{i}$ and $\\vec{B} = B\\hat{j}$: $$\\vec{F} \\propto \\hat{i} \\times \\hat{j} = \\hat{k}$$ Thus, the force is directed along the positive z-axis ($+\\hat{k}$).",
+      "topic": "Vector Direction of Magnetic Force"
+    },
+    {
+      "question": "(Example 4.2) Under the exact same setup as Q14 (magnetic field along $+\\hat{j}$ and velocity along $+\\hat{i}$), what is the direction of the magnetic force if the particle is an electron?",
+      "options": [
+        "Along the positive z-axis ($+\\hat{k}$)",
+        "Along the negative z-axis ($-\\hat{k}$)",
+        "Along the positive x-axis ($+\\hat{i}$)",
+        "Along the negative x-axis ($-\\hat{i}$)"
+      ],
+      "answer": 1,
+      "explanation": "For an electron, the charge is negative ($q = -e$). $$\\vec{F} = -e (v\\hat{i} \\times B\\hat{j}) = -evB (\\hat{i} \\times \\hat{j}) = -evB\\hat{k}$$ Thus, the force is directed along the negative z-axis ($-\\hat{k}$).",
+      "topic": "Direction of Magnetic Force on Negative Charge"
+    },
+    {
+      "question": "Why is the total work done by a magnetic force on a charged particle moving inside a magnetic field always zero?",
+      "options": [
+        "Because the magnetic field strength is always zero during motion",
+        "Because the magnetic force is always perpendicular to the velocity of the particle",
+        "Because the magnetic force is always parallel to the displacement",
+        "Because the particle always moves in a straight line"
+      ],
+      "answer": 1,
+      "explanation": "The magnetic force $\\vec{F}_m = q(\\vec{v} \\times \\vec{B})$ is always perpendicular to the velocity $\\vec{v}$ of the particle. The rate of work done (power) is $P = \\vec{F}_m \\cdot \\vec{v} = 0$. Since power is zero, the work done is zero, and the kinetic energy (and speed) of the particle remains constant.",
+      "topic": "Work-Energy Relation in Magnetic Fields"
+    },
+    {
+      "question": "A charged particle ($q, m$) is injected into a uniform magnetic field $B$ with velocity $v$ perpendicular to the field. What is the radius $r$ of the circular orbit it describes?",
+      "options": [
+        "$r = \\frac{qB}{mv}$",
+        "$r = \\frac{mv}{qB}$",
+        "$r = \\frac{qBv}{m}$",
+        "$r = \\frac{m}{qvB}$"
+      ],
+      "answer": 1,
+      "explanation": "The perpendicular magnetic force acts as the centripetal force: $$qvB = \\frac{mv^2}{r} \\implies r = \\frac{mv}{qB}$$",
+      "topic": "Circular Motion Radius"
+    },
+    {
+      "question": "The angular frequency of rotation $\\omega$ of a charged particle revolving in a plane perpendicular to a uniform magnetic field is given by:",
+      "options": [
+        "$\\omega = \\frac{qB}{m}$",
+        "$\\omega = \\frac{m}{qB}$",
+        "$\\omega = \\frac{2\\pi mv}{qB}$",
+        "$\\omega = \\frac{qB}{2\\pi m}$"
+      ],
+      "answer": 0,
+      "explanation": "Since $v = \\omega r$ and $r = \\frac{mv}{qB}$, we substitute $v$: $$\\omega = \\frac{v}{r} = \\frac{qB}{m}$$ This frequency of rotation $\\nu = \\omega / 2\\pi = qB / (2\\pi m)$ is called the cyclotron frequency.",
+      "topic": "Angular Frequency and Cyclotron Frequency"
+    },
+    {
+      "question": "The cyclotron frequency $\\nu = \\frac{qB}{2\\pi m}$ of a charged particle revolving inside a magnetic field is notably independent of which parameter(s)?",
+      "options": [
+        "The mass of the particle",
+        "The magnetic field strength",
+        "The charge of the particle",
+        "The velocity and energy of the particle"
+      ],
+      "answer": 3,
+      "explanation": "The expression for frequency $\\nu = \\frac{qB}{2\\pi m}$ contains only the charge, mass, and magnetic field. It does not contain velocity $v$ or kinetic energy $K$, making the frequency independent of how fast the particle is moving or what path radius it describes. This independence is exploited in the design of a cyclotron.",
+      "topic": "Frequency Independence"
+    },
+    {
+      "question": "If a charged particle enters a uniform magnetic field such that its velocity vector $\\vec{v}$ makes an arbitrary angle (not $0^\\circ, 90^\\circ$ or $180^\\circ$) with the magnetic field vector $\\vec{B}$, the resulting path described by the particle is a:",
+      "options": [
+        "Circle of radius $mv/qB$",
+        "Straight line along $\\vec{B}$",
+        "Helical curve wrapping along $\\vec{B}$",
+        "Parabolic curve"
+      ],
+      "answer": 2,
+      "explanation": "The velocity component parallel to the field ($v_\\parallel = v\\cos\\theta$) is unaffected by the magnetic force and moves the particle forward along the field lines. The velocity component perpendicular to the field ($v_\\perp = v\\sin\\theta$) causes circular motion. The combination of these two motions produces a helical path.",
+      "topic": "Helical Motion"
+    },
+    {
+      "question": "The distance moved by a charged particle along the direction of the magnetic field in one complete rotation is called the \"pitch\" ($p$) of the helix. What is the expression for the pitch?",
+      "options": [
+        "$p = \\frac{2\\pi m v_{\\parallel}}{qB}$",
+        "$p = \\frac{2\\pi m v_{\\perp}}{qB}$",
+        "$p = \\frac{m v_{\\parallel}}{qB}$",
+        "$p = \\frac{2\\pi qB}{m v_{\\parallel}}$"
+      ],
+      "answer": 0,
+      "explanation": "The time period of one revolution is $T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi m}{qB}$. The distance traveled along the field during this time is: $$p = v_\\parallel T = \\frac{2\\pi m v_\\parallel}{qB}$$",
+      "topic": "Pitch of Helix"
+    },
+    {
+      "question": "(Example 4.3) An electron ($m_e = 9 \\times 10^{-31}\\text{ kg}$, $e = 1.6 \\times 10^{-19}\\text{ C}$) moves at a speed of $3 \\times 10^7\\text{ m/s}$ perpendicular to a magnetic field of $6 \\times 10^{-4}\\text{ T}$. What is the radius of the circular path described by the electron?",
+      "options": [
+        "$2.8\\text{ cm}$",
+        "$28\\text{ cm}$",
+        "$2.8\\text{ m}$",
+        "$28\\text{ mm}$"
+      ],
+      "answer": 1,
+      "explanation": "$$r = \\frac{m_e v}{e B} = \\frac{9 \\times 10^{-31}\\text{ kg} \\times 3 \\times 10^7\\text{ m/s}}{1.6 \\times 10^{-19}\\text{ C} \\times 6 \\times 10^{-4}\\text{ T}}$$ $$r = \\frac{27 \\times 10^{-24}}{9.6 \\times 10^{-23}} = 2.8125 \\times 10^{-1}\\text{ m} \\approx 28\\text{ cm}$$",
+      "topic": "Radius Numerical Calculation"
+    },
+    {
+      "question": "(Example 4.3) For the electron moving in Q22, what is its frequency of revolution $\\nu$?",
+      "options": [
+        "$1.7\\text{ MHz}$",
+        "$17\\text{ MHz}$",
+        "$170\\text{ MHz}$",
+        "$1.7\\text{ GHz}$"
+      ],
+      "answer": 1,
+      "explanation": "$$\\nu = \\frac{e B}{2\\pi m_e} = \\frac{1.6 \\times 10^{-19}\\text{ C} \\times 6 \\times 10^{-4}\\text{ T}}{2 \\times 3.1416 \\times 9 \\times 10^{-31}\\text{ kg}}$$ $$\\nu = \\frac{9.6 \\times 10^{-23}}{5.655 \\times 10^{-29}} \\approx 1.7 \\times 10^7\\text{ s}^{-1} = 17\\text{ MHz}$$ Alternatively, $\\nu = \\frac{v}{2\\pi r} = \\frac{3 \\times 10^7}{2 \\times 3.1416 \\times 0.28} \\approx 17\\text{ MHz}$.",
+      "topic": "Frequency Numerical Calculation"
+    },
+    {
+      "question": "(Example 4.3) Calculate the kinetic energy of the revolving electron in Q22 in units of kiloelectron-volts (keV), where $1\\text{ eV} = 1.6 \\times 10^{-19}\\text{ J}$:",
+      "options": [
+        "$2.5\\text{ keV}$",
+        "$25\\text{ keV}$",
+        "$0.25\\text{ keV}$",
+        "$4.0\\text{ keV}$"
+      ],
+      "answer": 0,
+      "explanation": "$$E_k = \\frac{1}{2} m_e v^2 = \\frac{1}{2} \\times 9 \\times 10^{-31}\\text{ kg} \\times (3 \\times 10^7\\text{ m/s})^2$$ $$E_k = 4.5 \\times 10^{-31} \\times 9 \\times 10^{14} = 4.05 \\times 10^{-16}\\text{ J}$$ To convert to eV: $$E_k = \\frac{4.05 \\times 10^{-16}\\text{ J}}{1.6 \\times 10^{-19}\\text{ J/eV}} \\approx 2531\\text{ eV} \\approx 2.5\\text{ keV}$$",
+      "topic": "Energy Conversion Numerical"
+    },
+    {
+      "question": "According to the Biot-Savart law, what is the correct vector expression for the infinitesimal magnetic field $d\\vec{B}$ produced at a distance vector $\\vec{r}$ by an infinitesimal current element $I d\\vec{l}$?",
+      "options": [
+        "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I (d\\vec{l} \\times \\vec{r})}{r^2}$",
+        "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I (d\\vec{l} \\cdot \\vec{r})}{r^3}$",
+        "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I (d\\vec{l} \\times \\vec{r})}{r^3}$",
+        "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I (\\vec{r} \\times d\\vec{l})}{r^3}$"
+      ],
+      "answer": 2,
+      "explanation": "The vector form of Biot-Savart Law is $d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\vec{r})}{r^3}$. Since $\\vec{r} = r \\hat{r}$, this can also be written in terms of the unit vector as $d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\hat{r})}{r^2}$.",
+      "topic": "Biot-Savart Law Vector Form"
+    },
+    {
+      "question": "What is the value of the constant of proportionality $\\frac{\\mu_0}{4\\pi}$ in SI units, where $\\mu_0$ is the permeability of free space?",
+      "options": [
+        "$10^{-7}\\text{ T}\\cdot\\text{m}/\\text{A}$",
+        "$4\\pi \\times 10^{-7}\\text{ T}\\cdot\\text{m}/\\text{A}$",
+        "$9 \\times 10^9\\text{ N}\\cdot\\text{m}^2/\\text{C}^2$",
+        "$8.854 \\times 10^{-12}\\text{ C}^2/(\\text{N}\\cdot\\text{m}^2)$"
+      ],
+      "answer": 0,
+      "explanation": "The constant $\\frac{\\mu_0}{4\\pi} = 10^{-7}\\text{ T}\\cdot\\text{m}/\\text{A}$ exactly in SI units. Thus, the permeability of free space is $\\mu_0 = 4\\pi \\times 10^{-7}\\text{ T}\\cdot\\text{m}/\\text{A}$ (or $\\text{T}\\cdot\\text{m}\\cdot\\text{A}^{-1}$).",
+      "topic": "Permeability of Free Space"
+    },
+    {
+      "question": "In comparing Biot-Savart Law for magnetic fields with Coulomb's Law for electrostatic fields, which of the following is a major difference?",
+      "options": [
+        "Coulomb's field is produced by a scalar source ($q$), whereas Biot-Savart's field is produced by a vector source ($I d\\vec{l}$)",
+        "Coulomb's field is along the displacement vector joining source and field point, whereas the magnetic field is perpendicular to the plane containing the displacement vector and current element",
+        "Biot-Savart Law has an angle dependence (the field is zero along the direction of the element), which is not present in Coulomb's Law",
+        "All of the above are correct differences"
+      ],
+      "answer": 3,
+      "explanation": "Section 4.4 details these differences. Specifically: (1) Electrostatic source is a scalar, magnetic source is a vector; (2) Electrostatic field acts along $\\vec{r}$, magnetic field acts sideways (perpendicular to both $d\\vec{l}$ and $\\vec{r}$); (3) Magnetic field has a $\\sin\\theta$ dependence, vanishing along the line of the current element itself ($\\theta = 0^\\circ$ or $180^\\circ$), while electrostatic field has no angular dependency.",
+      "topic": "Biot-Savart vs Coulomb's Law Comparison"
+    },
+    {
+      "question": "What is the fundamental relation between the speed of light in vacuum ($c$), the permittivity of free space ($\\varepsilon_0$), and the permeability of free space ($\\mu_0$)?",
+      "options": [
+        "$c = \\mu_0 \\varepsilon_0$",
+        "$c^2 = \\frac{1}{\\mu_0 \\varepsilon_0}$",
+        "$c = \\sqrt{\\mu_0 \\varepsilon_0}$",
+        "$c = \\frac{\\mu_0}{\\varepsilon_0}$"
+      ],
+      "answer": 1,
+      "explanation": "The product of $\\mu_0$ and $\\varepsilon_0$ is mathematically fixed as: $$\\mu_0 \\varepsilon_0 = \\left(\\frac{\\mu_0}{4\\pi}\\right) \\cdot (4\\pi \\varepsilon_0) = 10^{-7} \\times \\frac{1}{9 \\times 10^9} = \\frac{1}{9 \\times 10^{16}} = \\frac{1}{c^2}$$ Thus, $c^2 = \\frac{1}{\\mu_0 \\varepsilon_0}$ or $c = \\frac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}$, which is discussed further in electromagnetism.",
+      "topic": "Relation of c with Permittivity and Permeability"
+    },
+    {
+      "question": "(Example 4.4) An element $d\\vec{l} = \\Delta x \\hat{i}$ is placed at the origin and carries a large current $I = 10\\text{ A}$. What is the magnetic field $\\vec{B}$ on the y-axis at a distance of $0.5\\text{ m}$ if $\\Delta x = 1\\text{ cm}$?",
+      "options": [
+        "$4 \\times 10^{-8}\\text{ T}$ along $+\\hat{k}$",
+        "$4 \\times 10^{-8}\\text{ T}$ along $-\\hat{k}$",
+        "$2 \\times 10^{-8}\\text{ T}$ along $+\\hat{k}$",
+        "$2 \\times 10^{-8}\\text{ T}$ along $-\\hat{k}$"
+      ],
+      "answer": 0,
+      "explanation": "$$dB = \\frac{\\mu_0}{4\\pi} \\frac{I dl \\sin\\theta}{r^2}$$ Given $\\theta = 90^\\circ$ (point on y-axis, element along x-axis), so $\\sin\\theta = 1$. $$dB = 10^{-7} \\times \\frac{10\\text{ A} \\times 0.01\\text{ m}}{(0.5\\text{ m})^2} = 10^{-7} \\times \\frac{0.1}{0.25} = 4 \\times 10^{-8}\\text{ T}$$ Direction is given by $d\\vec{l} \\times \\vec{r} = \\Delta x\\hat{i} \\times y\\hat{j} \\propto \\hat{i} \\times \\hat{j} = \\hat{k}$ (positive z-direction).",
+      "topic": "Biot-Savart Law Numerical Calculation"
+    },
+    {
+      "question": "What is the expression for the magnitude of the magnetic field $B$ at an axial point $P$ at a distance $x$ from the centre of a circular current-carrying loop of radius $R$ carrying a current $I$?",
+      "options": [
+        "$B = \\frac{\\mu_0 I R^2}{2(x^2 + R^2)^{3/2}}$",
+        "$B = \\frac{\\mu_0 I R^2}{4\\pi(x^2 + R^2)^{3/2}}$",
+        "$B = \\frac{\\mu_0 I}{2R}$",
+        "$B = \\frac{\\mu_0 I R^2}{2(x^2 + R^2)^{1/2}}$"
+      ],
+      "answer": 0,
+      "explanation": "By integrating the Biot-Savart components along the axis of the circular loop (where perpendicular components cancel out and axial components sum up), the resulting field is given by Eq. (4.11): $$B = \\frac{\\mu_0 I R^2}{2(x^2 + R^2)^{3/2}}$$",
+      "topic": "Axial Field of Circular Loop"
+    },
+    {
+      "question": "From the general axial magnetic field formula, what is the magnetic field at the exact centre ($x = 0$) of a circular loop of radius $R$ carrying current $I$?",
+      "options": [
+        "$B = \\frac{\\mu_0 I}{4\\pi R}$",
+        "$B = \\frac{\\mu_0 I}{2R}$",
+        "$B = \\frac{\\mu_0 I}{4R}$",
+        "$B = 0$"
+      ],
+      "answer": 1,
+      "explanation": "Substituting $x = 0$ into the axial magnetic field expression: $$B = \\frac{\\mu_0 I R^2}{2(R^2)^{3/2}} = \\frac{\\mu_0 I R^2}{2 R^3} = \\frac{\\mu_0 I}{2R}$$",
+      "topic": "Magnetic Field at Centre of Loop"
+    },
+    {
+      "question": "(Example 4.5) A straight wire carrying a current of $12\\text{ A}$ is bent into a semi-circular arc of radius $2.0\\text{ cm}$. What is the magnitude and direction of the magnetic field at the centre of the arc due to the straight segments?",
+      "options": [
+        "$1.9 \\times 10^{-4}\\text{ T}$, normal into the paper",
+        "$1.9 \\times 10^{-4}\\text{ T}$, normal out of the paper",
+        "Zero",
+        "Dependent on the length of the straight wire"
+      ],
+      "answer": 2,
+      "explanation": "For any element $d\\vec{l}$ on the straight segments, the displacement vector $\\vec{r}$ to the centre is collinear with the segment. Hence, $d\\vec{l} \\times \\vec{r} = 0$, meaning the straight segments contribute absolutely nothing to the magnetic field at the centre.",
+      "topic": "Semicircular Arc Centre Field"
+    },
+    {
+      "question": "(Example 4.5) For the same setup in Q32 (radius $2.0\\text{ cm}$, current $12\\text{ A}$), what is the magnitude of the magnetic field at the centre of the semi-circular arc itself?",
+      "options": [
+        "$1.9 \\times 10^{-4}\\text{ T}$",
+        "$3.8 \\times 10^{-4}\\text{ T}$",
+        "$0.95 \\times 10^{-4}\\text{ T}$",
+        "$1.9 \\times 10^{-5}\\text{ T}$"
+      ],
+      "answer": 0,
+      "explanation": "The magnetic field of a semi-circular loop at its centre is exactly half the field of a full circular loop: $$B = \\frac{1}{2} \\left( \\frac{\\mu_0 I}{2R} \\right) = \\frac{\\mu_0 I}{4R}$$ $$B = \\frac{4\\pi \\times 10^{-7}\\text{ T}\\cdot\\text{m/A} \\times 12\\text{ A}}{4 \\times 0.02\\text{ m}} = 6\\pi \\times 10^{-5}\\text{ T} \\approx 1.88 \\times 10^{-4}\\text{ T} \\approx 1.9 \\times 10^{-4}\\text{ T}$$",
+      "topic": "Semicircular Arc Numerical Calculation"
+    },
+    {
+      "question": "(Example 4.6) A tightly wound 100 turn coil of radius $10\\text{ cm}$ carries a current of $1\\text{ A}$. What is the magnitude of the magnetic field at the centre of this coil?",
+      "options": [
+        "$6.28 \\times 10^{-3}\\text{ T}$",
+        "$6.28 \\times 10^{-4}\\text{ T}$",
+        "$3.14 \\times 10^{-4}\\text{ T}$",
+        "$6.28 \\times 10^{-5}\\text{ T}$"
+      ],
+      "answer": 1,
+      "explanation": "For a tightly wound coil of $N$ turns, the fields of all turns add up directly: $$B = \\frac{\\mu_0 N I}{2R} = \\frac{4\\pi \\times 10^{-7} \\times 100 \\times 1}{2 \\times 0.1} = 2\\pi \\times 10^{-4}\\text{ T} \\approx 6.28 \\times 10^{-4}\\text{ T}$$",
+      "topic": "Tightly Wound Coil Field Calculation"
+    },
+    {
+      "question": "What is the mathematical statement of Ampere's Circuital Law?",
+      "options": [
+        "$\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 I_e$ where $I_e$ is the current enclosed by the open surface bounded by loop $C$",
+        "$\\oint \\vec{B} \\cdot d\\vec{l} = \\frac{I_e}{\\mu_0}$",
+        "$\\oint \\vec{B} \\times d\\vec{l} = \\mu_0 I_e$",
+        "$\\oint \\vec{E} \\cdot d\\vec{l} = \\mu_0 I_e$"
+      ],
+      "answer": 0,
+      "explanation": "Ampere's Circuital Law states that the line integral of magnetic field $\\vec{B}$ along a closed loop is equal to $\\mu_0$ times the total current $I_e$ passing through the surface bounded by the loop (NCERT Eq. 4.13a).",
+      "topic": "Ampere's Circuital Law Formulation"
+    },
+    {
+      "question": "Ampere's circuital law is to Biot-Savart law what:",
+      "options": [
+        "Ohm's law is to Joule heating law",
+        "Gauss's law is to Coulomb's law",
+        "Faraday's law is to Lenz's law",
+        "Lorentz force is to Newton's second law"
+      ],
+      "answer": 1,
+      "explanation": "Section 4.6 states: \"Ampere’s law is to Biot-Savart law, what Gauss’s law is to Coulomb’s law.\" Both pair relate a boundary/periphery integral to the internal source quantity, facilitating easy evaluations under high symmetry.",
+      "topic": "Conceptual Analogy of Ampere's Law"
+    },
+    {
+      "question": "(Example 4.7) A long straight wire of circular cross-section (radius $a$) carries a steady current $I$ uniformly distributed across its cross-section. What is the behavior of the magnetic field $B$ in the region inside the wire ($r < a$)?",
+      "options": [
+        "$B$ is zero",
+        "$B$ is constant everywhere",
+        "$B$ is directly proportional to the distance $r$ ($B \\propto r$)",
+        "$B$ is inversely proportional to $r$ ($B \\propto 1/r$)"
+      ],
+      "answer": 2,
+      "explanation": "For $r < a$, the enclosed current is $I_e = I \\left(\\frac{\\pi r^2}{\\pi a^2}\\right) = \\frac{I r^2}{a^2}$. Applying Ampere's Law: $$B(2\\pi r) = \\mu_0 I_e \\implies B(2\\pi r) = \\mu_0 \\frac{Ir^2}{a^2} \\implies B = \\left(\\frac{\\mu_0 I}{2\\pi a^2}\\right) r$$ Hence, inside the wire, the field grows linearly with distance $r$ from the centre ($B \\propto r$).",
+      "topic": "Magnetic Field Inside a Thick Wire"
+    },
+    {
+      "question": "(Example 4.7) For the thick current-carrying wire in Q37, how does the magnetic field $B$ vary with distance $r$ outside the wire ($r > a$)?",
+      "options": [
+        "$B \\propto r^2$",
+        "$B \\propto r$",
+        "$B$ is zero",
+        "$B \\propto \\frac{1}{r}$"
+      ],
+      "answer": 3,
+      "explanation": "Outside the wire ($r > a$), the entire current $I$ is enclosed by the Amperian loop ($I_e = I$). Thus: $$B (2\\pi r) = \\mu_0 I \\implies B = \\frac{\\mu_0 I}{2\\pi r}$$ The field falls off inversely with distance ($B \\propto 1/r$).",
+      "topic": "Magnetic Field Outside a Thick Wire"
+    },
+    {
+      "question": "What is the physical definition of a long solenoid?",
+      "options": [
+        "A solenoid whose radius is much larger than its length",
+        "A solenoid whose length is much larger than its radius",
+        "A solenoid consisting of only one loop",
+        "A solenoid that only works at high frequencies"
+      ],
+      "answer": 1,
+      "explanation": "Section 4.7 states: \"By long solenoid we mean that the solenoid’s length is large compared to its radius.\"",
+      "topic": "Definition of Solenoid"
+    },
+    {
+      "question": "Inside a very long solenoid carrying current $I$, the magnetic field $B$ at the interior mid-points is:",
+      "options": [
+        "Highly non-uniform and perpendicular to the axis",
+        "Weak and approaches zero",
+        "Uniform, strong, and along the axis of the solenoid",
+        "Dependent on the cross-sectional shape of the solenoid only"
+      ],
+      "answer": 2,
+      "explanation": "In a long, closely wound solenoid, magnetic field lines cancel out between neighboring turns externally and sum up internally, producing a strong, highly uniform magnetic field parallel to the central axis.",
+      "topic": "Field Lines of a Solenoid"
+    },
+    {
+      "question": "What is the formula for the magnetic field $B$ inside a long current-carrying solenoid in vacuum?",
+      "options": [
+        "$B = \\mu_0 N I$",
+        "$B = \\mu_0 n I$ (where $n$ is number of turns per unit length)",
+        "$B = \\frac{\\mu_0 I}{2\\pi n}$",
+        "$B = \\frac{\\mu_0 N I}{2R}$"
+      ],
+      "answer": 1,
+      "explanation": "Applying Ampere's Law to a rectangular Amperian loop $abcd$ (where the field outside is zero, and transverse components do not contribute), we get $B h = \\mu_0 I_e = \\mu_0 (n h) I \\implies B = \\mu_0 n I$.",
+      "topic": "Solenoid Field Formula"
+    },
+    {
+      "question": "(Example 4.8) A solenoid of length $0.5\\text{ m}$ has a radius of $1\\text{ cm}$ and is made up of $500\\text{ turns}$. It carries a current of $5\\text{ A}$. What is the magnitude of the magnetic field inside the solenoid near its centre?",
+      "options": [
+        "$6.28 \\times 10^{-3}\\text{ T}$",
+        "$6.28 \\times 10^{-4}\\text{ T}$",
+        "$3.14 \\times 10^{-3}\\text{ T}$",
+        "$1.26 \\times 10^{-2}\\text{ T}$"
+      ],
+      "answer": 0,
+      "explanation": "First, check if the \"long solenoid\" approximation holds: $l/a = 0.5/0.01 = 50$, so $l \\gg a$. Yes, we can use the long solenoid formula: $$n = \\frac{N}{l} = \\frac{500}{0.5} = 1000\\text{ turns/m}$$ $$B = \\mu_0 n I = 4\\pi \\times 10^{-7}\\text{ T}\\cdot\\text{m/A} \\times 1000\\text{ m}^{-1} \\times 5\\text{ A} = 2\\pi \\times 10^{-3}\\text{ T} \\approx 6.28 \\times 10^{-3}\\text{ T}$$",
+      "topic": "Solenoid Field Numerical Calculation"
+    },
+    {
+      "question": "Two long, straight, parallel conductors carrying currents in the same direction (parallel currents) will:",
+      "options": [
+        "Repel each other",
+        "Attract each other",
+        "Experience torque but no net force",
+        "Exert no forces on each other"
+      ],
+      "answer": 1,
+      "explanation": "Applying the right-hand rule to find the field from the first wire and then the $\\vec{l} \\times \\vec{B}$ force on the second wire reveals that currents flowing in the same direction attract each other. Opposite (antiparallel) currents repel. This is the opposite of electrostatics.",
+      "topic": "Force Between Parallel Currents"
+    },
+    {
+      "question": "What is the expression for the force per unit length $f$ between two long parallel straight conductors carrying currents $I_a$ and $I_b$ separated by a distance $d$ in vacuum?",
+      "options": [
+        "$f = \\frac{\\mu_0 I_a I_b}{2\\pi d^2}$",
+        "$f = \\frac{\\mu_0 I_a I_b}{2\\pi d}$",
+        "$f = \\frac{\\mu_0 I_a I_b}{4\\pi d}$",
+        "$f = \\frac{\\mu_0 I_a^2 I_b^2}{2\\pi d}$"
+      ],
+      "answer": 1,
+      "explanation": "The magnetic field produced by wire 'a' at wire 'b' is $B_a = \\frac{\\mu_0 I_a}{2\\pi d}$. The force on length $L$ of wire 'b' is $F_{ba} = I_b L B_a = \\frac{\\mu_0 I_a I_b L}{2\\pi d}$. Thus, the force per unit length is $f = F_{ba}/L = \\frac{\\mu_0 I_a I_b}{2\\pi d}$.",
+      "topic": "Parallel Force per Unit Length"
+    },
+    {
+      "question": "The theoretical definition of the S.I. base unit 'ampere' (adopted in 1946) is based on the force between parallel currents. It is defined as that steady current which, when maintained in two very long parallel straight conductors placed 1 metre apart in vacuum, produces on each conductor a force equal to:",
+      "options": [
+        "$2 \\times 10^{-7}\\text{ newtons per metre of length}$",
+        "$4\\pi \\times 10^{-7}\\text{ newtons per metre of length}$",
+        "$1\\text{ newton per metre of length}$",
+        "$9 \\times 10^9\\text{ newtons per metre of length}$"
+      ],
+      "answer": 0,
+      "explanation": "If $I_a = I_b = 1\\text{ A}$ and $d = 1\\text{ m}$, then: $$f = \\frac{\\mu_0 (1)(1)}{2\\pi (1)} = \\frac{4\\pi \\times 10^{-7}}{2\\pi} = 2 \\times 10^{-7}\\text{ N/m}$$ This mechanical force per unit length is used to define the S.I. Ampere.",
+      "topic": "S.I. Definition of Ampere"
+    },
+    {
+      "question": "What laboratory instrument is used to measure the mechanical force between conductors to standardise the S.I. Ampere?",
+      "options": [
+        "MCG (Moving Coil Galvanometer)",
+        "Current balance",
+        "Voltmeter",
+        "Ammeter calibrated in series"
+      ],
+      "answer": 1,
+      "explanation": "Section 4.8 specifies: \"An instrument called the current balance is used to measure this mechanical force.\"",
+      "topic": "Current Balance Instrumentation"
+    },
+    {
+      "question": "(Example 4.9) At a certain place, the horizontal component of Earth's magnetic field is $3.0 \\times 10^{-5}\\text{ T}$ going south to north. What is the force per unit length on a long straight horizontal wire carrying a current of $1\\text{ A}$ if the current flows from east to west?",
+      "options": [
+        "$3.0 \\times 10^{-5}\\text{ N/m}$, directed vertically downwards",
+        "$3.0 \\times 10^{-5}\\text{ N/m}$, directed vertically upwards",
+        "Zero",
+        "$1.5 \\times 10^{-5}\\text{ N/m}$, directed north to south"
+      ],
+      "answer": 0,
+      "explanation": "The force per unit length is $f = I B \\sin\\theta$. Since the current goes east-west and Earth's horizontal field goes south-north, the angle $\\theta = 90^\\circ$ (perpendicular), so $\\sin\\theta = 1$. $$f = (1\\text{ A}) \\times (3.0 \\times 10^{-5}\\text{ T}) = 3.0 \\times 10^{-5}\\text{ N/m}$$ Using the vector cross product direction for $\\vec{l} \\times \\vec{B}$ (with $\\vec{l}$ along west and $\\vec{B}$ along north), the force direction is vertically downwards.",
+      "topic": "Force on Conductor Numerical"
+    },
+    {
+      "question": "(Example 4.9) For the exact same setup in Q47, what is the force per unit length on the conductor if it is placed such that the current flows from south to north?",
+      "options": [
+        "$3.0 \\times 10^{-5}\\text{ N/m}$",
+        "Zero",
+        "$1.5 \\times 10^{-5}\\text{ N/m}$",
+        "$2.0 \\times 10^{-7}\\text{ N/m}$"
+      ],
+      "answer": 1,
+      "explanation": "When the current is directed from south to north, its direction is parallel to Earth's horizontal magnetic field. Thus, the angle $\\theta = 0^\\circ$. Since $\\sin 0^\\circ = 0$, the force per unit length is: $$f = I B \\sin 0^\\circ = 0$$",
+      "topic": "Angular Dependence of Force"
+    },
+    {
+      "question": "A planar loop of area vector $\\vec{A}$ carrying current $I$ placed in a uniform magnetic field $\\vec{B}$ experiences a torque. If we define the magnetic dipole moment as $\\vec{m} = I\\vec{A}$, the vector torque is given by:",
+      "options": [
+        "$\\vec{\\tau} = \\vec{m} \\cdot \\vec{B}$",
+        "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+        "$\\vec{\\tau} = \\vec{B} \\times \\vec{m}$",
+        "$\\vec{\\tau} = N (\\vec{m} \\cdot \\vec{B})$"
+      ],
+      "answer": 1,
+      "explanation": "The torque on a magnetic dipole in a magnetic field is $\\vec{\\tau} = \\vec{m} \\times \\vec{B}$ (NCERT Eq. 4.23). This is analogous to the electric dipole torque $\\vec{\\tau} = \\vec{p} \\times \\vec{E}$ in electrostatics.",
+      "topic": "Torque on Current Loop"
+    },
+    {
+      "question": "Under which orientation of the magnetic dipole moment $\\vec{m}$ with respect to the magnetic field $\\vec{B}$ is a current loop in a state of stable equilibrium?",
+      "options": [
+        "When $\\vec{m}$ and $\\vec{B}$ are parallel ($\\theta = 0^\\circ$)",
+        "When $\\vec{m}$ and $\\vec{B}$ are antiparallel ($\\theta = 180^\\circ$)",
+        "When $\\vec{m}$ and $\\vec{B}$ are perpendicular ($\\theta = 90^\\circ$)",
+        "Current loops never reach stable equilibrium in uniform fields"
+      ],
+      "answer": 0,
+      "explanation": "When $\\vec{m}$ is parallel to $\\vec{B}$, the torque is zero ($\\sin 0^\\circ = 0$). Any small rotational displacement generates a restoring torque that forces the dipole back to its original aligned state. If they are antiparallel ($\\theta = 180^\\circ$), the torque is also zero, but any minor disturbance produces a torque that increases the rotation further, representing unstable equilibrium.",
+      "topic": "Stable and Unstable Equilibrium"
+    },
+    {
+      "question": "(Example 4.10) A 100-turn closely wound circular coil of radius $10\\text{ cm}$ carries a current of $3.2\\text{ A}$. What is the magnitude of the magnetic dipole moment $m$ of this coil?",
+      "options": [
+        "$10\\text{ A}\\cdot\\text{m}^2$",
+        "$1.0\\text{ A}\\cdot\\text{m}^2$",
+        "$100\\text{ A}\\cdot\\text{m}^2$",
+        "$3.14\\text{ A}\\cdot\\text{m}^2$"
+      ],
+      "answer": 0,
+      "explanation": "The magnetic dipole moment of a coil with $N$ turns is: $$m = N I A = N I (\\pi r^2)$$ $$m = 100 \\times 3.2\\text{ A} \\times (3.1416 \\times (0.1\\text{ m})^2)$$ $$m = 320 \\times 3.1416 \\times 0.01 = 10.05 \\approx 10\\text{ A}\\cdot\\text{m}^2$$",
+      "topic": "Magnetic Dipole Moment Calculation"
+    },
+    {
+      "question": "(Example 4.10) If the coil in Q51 is placed in a vertical plane and is free to rotate about its horizontal diameter in a uniform horizontal magnetic field $B = 2\\text{ T}$, what is the torque experienced by the coil when it has rotated through $90^\\circ$ from its initial aligned position ($\\theta = 0^\\circ$)?",
+      "options": [
+        "Zero",
+        "$20\\text{ N}\\cdot\\text{m}$",
+        "$10\\text{ N}\\cdot\\text{m}$",
+        "$40\\text{ N}\\cdot\\text{m}$"
+      ],
+      "answer": 1,
+      "explanation": "$$\\tau = m B \\sin\\theta$$ Initially, $\\theta = 0^\\circ$, so $\\tau_i = 0$. After rotating by $90^\\circ$, $\\theta = 90^\\circ$, so $\\sin 90^\\circ = 1$. $$\\tau_f = m B = (10\\text{ A}\\cdot\\text{m}^2) \\times (2\\text{ T}) = 20\\text{ N}\\cdot\\text{m}$$",
+      "topic": "Torque Numerical Calculation"
+    },
+    {
+      "question": "(Example 4.11) A flexible current-carrying loop of irregular shape is located in an external magnetic field. If the loop is free, why does it change its shape to a circular one?",
+      "options": [
+        "To minimize its self-inductance",
+        "To maximize its enclosed area and thus maximize the magnetic flux of the total field",
+        "To minimize the magnetic force acting on the wire",
+        "Due to gravitational forces acting on the flexible parts"
+      ],
+      "answer": 1,
+      "explanation": "For a given perimeter, a circle encloses a greater area than any other geometric shape. Since maximizing the enclosed area maximizes the magnetic flux of the total field through the loop, the flexible wire automatically deforms into a circle to achieve stable, maximum flux.",
+      "topic": "Flexible Current Loop Shape"
+    },
+    {
+      "question": "For an axial point at a very large distance $x$ ($x \\gg R$) from the centre of a circular current loop of magnetic moment $m$, the magnetic field is given by $B \\approx \\frac{\\mu_0}{4\\pi} \\frac{2m}{x^3}$. This formula is mathematically analogous to which electrostatic expression?",
+      "options": [
+        "Electric field on the perpendicular bisector of an electric dipole: $E \\approx \\frac{p}{4\\pi \\varepsilon_0 x^3}$",
+        "Electric field on the axis of an electric dipole: $E \\approx \\frac{2p}{4\\pi \\varepsilon_0 x^3}$",
+        "Electric field of a point charge: $E = \\frac{q}{4\\pi \\varepsilon_0 x^2}$",
+        "Potential of an electric dipole: $V = \\frac{p}{4\\pi \\varepsilon_0 x^2}$"
+      ],
+      "answer": 1,
+      "explanation": "The axial magnetic field of a current loop at large distance is $B \\approx \\frac{\\mu_0}{4\\pi} \\frac{2m}{x^3}$. This is identical in form to the axial electric field of an electric dipole $E \\approx \\frac{1}{4\\pi \\varepsilon_0} \\frac{2p}{x^3}$ upon replacing electrostatic dipole $p \\to m$ and $1/\\varepsilon_0 \\to \\mu_0$.",
+      "topic": "Current Loop as a Magnetic Dipole"
+    },
+    {
+      "question": "In a moving coil galvanometer (MCG), a cylindrical soft iron core is placed inside the coil and cylindrical pole pieces are used. What is the physical role of this soft iron core design?",
+      "options": [
+        "It decreases the resistance of the galvanometer coil",
+        "It makes the magnetic field radial and increases its strength",
+        "It acts as a shunt to bypass excess current",
+        "It provides the mechanical restoring torque"
+      ],
+      "answer": 1,
+      "explanation": "The cylindrical soft iron core has high magnetic permeability, which crowds the magnetic field lines, increasing the magnetic field strength. Moreover, the pole configuration makes the field radial, ensuring the magnetic force/torque is always maximum and independent of the coil's rotation angle (keeping $\\sin\\theta = 1$ in $\\tau = N I A B \\sin\\theta$).",
+      "topic": "Radial Magnetic Field in MCG"
+    },
+    {
+      "question": "What is the formula for the steady angular deflection $\\phi$ in a moving coil galvanometer in terms of current $I$ and spring torsional constant $k$?",
+      "options": [
+        "$\\phi = \\left(\\frac{k}{NAB}\\right) I$",
+        "$\\phi = \\left(\\frac{NAB}{k}\\right) I$",
+        "$\\phi = \\left(\\frac{NAB}{k R_G}\\right) I$",
+        "$\\phi = \\left(\\frac{N^2 AB}{k}\\right) I$"
+      ],
+      "answer": 1,
+      "explanation": "In equilibrium, the deflecting magnetic torque $\\tau_m = N I A B$ is balanced by the restoring elastic torque of the spring $\\tau_r = k\\phi$. $$k\\phi = N I A B \\implies \\phi = \\left(\\frac{NAB}{k}\\right) I$$",
+      "topic": "MCG Deflection Equation"
+    },
+    {
+      "question": "If the number of turns $N$ in the coil of a moving coil galvanometer is doubled ($N \\to 2N$), what happens to its current sensitivity and voltage sensitivity?",
+      "options": [
+        "Current sensitivity is doubled, and voltage sensitivity is also doubled",
+        "Current sensitivity is doubled, but voltage sensitivity remains unchanged",
+        "Current sensitivity remains unchanged, but voltage sensitivity is doubled",
+        "Both sensitivities remain completely unchanged"
+      ],
+      "answer": 1,
+      "explanation": "Current sensitivity is $\\phi/I = NAB/k$, which is proportional to $N$; hence it doubles. Voltage sensitivity is $\\phi/V = NAB/(k R_G)$. When turns double ($N \\to 2N$), the total length of the wire doubles, which doubles the resistance of the galvanometer coil ($R_G \\to 2R_G$). Thus: $$\\left(\\frac{\\phi}{V}\\right)' = \\frac{(2N)AB}{k (2R_G)} = \\frac{NAB}{k R_G} = \\frac{\\phi}{V}$$ The voltage sensitivity remains unchanged.",
+      "topic": "Sensitivity Parameters of MCG"
+    },
+    {
+      "question": "To convert a moving coil galvanometer of resistance $G$ into an ammeter capable of measuring large currents, one must connect:",
+      "options": [
+        "A very high resistance in series with the galvanometer coil",
+        "A very low resistance (shunt) in parallel with the galvanometer coil",
+        "A very high resistance in parallel with the galvanometer coil",
+        "A very low resistance in series with the galvanometer coil"
+      ],
+      "answer": 1,
+      "explanation": "To measure large currents without burning the sensitive galvanometer or altering the circuit current, a low resistance $r_s$ (shunt) is connected in parallel. This allows the majority of the current to bypass the galvanometer coil. The overall resistance of this converted ammeter is extremely small.",
+      "topic": "Galvanometer to Ammeter Conversion"
+    },
+    {
+      "question": "To convert a moving coil galvanometer of resistance $G$ into a voltmeter to measure potential differences, one must connect:",
+      "options": [
+        "A very high resistance in series with the galvanometer coil",
+        "A very low resistance in parallel with the galvanometer coil",
+        "A very high resistance in parallel with the galvanometer coil",
+        "A very low resistance in series with the galvanometer coil"
+      ],
+      "answer": 0,
+      "explanation": "A voltmeter must be connected in parallel with the test section and must draw negligible current so as not to disturb the circuit. To ensure this, a very high resistance $R$ is connected in series with the galvanometer coil, making the voltmeter's total resistance very high.",
+      "topic": "Galvanometer to Voltmeter Conversion"
+    },
+    {
+      "question": "(Example 4.12) In a basic circuit, a battery of $3\\text{ V}$ is connected to a resistor of $3\\text{ }\\Omega$. What is the measured current in the circuit if the ammeter used is a galvanometer with a coil resistance of $G = 60.00\\text{ }\\Omega$?",
+      "options": [
+        "$1.00\\text{ A}$",
+        "$0.99\\text{ A}$",
+        "$0.048\\text{ A}$",
+        "$0.050\\text{ A}$"
+      ],
+      "answer": 2,
+      "explanation": "The total resistance in the circuit when the galvanometer is connected is: $$R_{\\text{total}} = R + G = 3\\text{ }\\Omega + 60\\text{ }\\Omega = 63\\text{ }\\Omega$$ The measured current is: $$I = \\frac{V}{R_{\\text{total}}} = \\frac{3\\text{ V}}{63\\text{ }\\Omega} \\approx 0.048\\text{ A}$$ This shows how a raw galvanometer fails as an ammeter, drastically altering the circuit's original current.",
+      "topic": "Galvanometer Circuit Calculation"
+    },
+    {
+      "question": "(Example 4.12) What is the measured current in the circuit in Q60 if the galvanometer ($G = 60.00\\text{ }\\Omega$) is converted to an ammeter using a shunt resistance of $r_s = 0.02\\text{ }\\Omega$?",
+      "options": [
+        "$1.00\\text{ A}$",
+        "$0.99\\text{ A}$",
+        "$0.048\\text{ A}$",
+        "$0.48\\text{ A}$"
+      ],
+      "answer": 1,
+      "explanation": "The resistance of the shunted galvanometer (ammeter) is: $$R_A = \\frac{G r_s}{G + r_s} = \\frac{60 \\times 0.02}{60 + 0.02} \\approx 0.02\\text{ }\\Omega$$ The total resistance of the circuit is now $R_{\\text{total}} = 3\\text{ }\\Omega + 0.02\\text{ }\\Omega = 3.02\\text{ }\\Omega$. The measured current is: $$I = \\frac{3\\text{ V}}{3.02\\text{ }\\Omega} \\approx 0.99\\text{ A}$$ This represents a highly accurate current measurement close to the ideal current of $1.00\\text{ A}$.",
+      "topic": "Shunted Galvanometer Calculation"
+    },
+    {
+      "question": "(Points to Ponder) Under what condition does Newton's third law of mechanics hold for the magnetic forces acting between two moving charges or time-dependent currents?",
+      "options": [
+        "It always holds unconditionally",
+        "It never holds under any circumstance",
+        "It holds only if the momentum carried by the electromagnetic fields is also taken into account",
+        "It holds only if the speed of the charges is equal to the speed of light"
+      ],
+      "answer": 2,
+      "explanation": "As explained in Point 2 of the \"Points to Ponder\" section: For time-dependent currents and charges in motion, Newton's third law may not hold if we only consider mechanical forces. However, momentum conservation (and Newton's third law) is fully restored if the momentum carried by the electromagnetic fields is included in the calculations.",
+      "topic": "Points to Ponder (Newton's Third Law)"
+    }
+  ]
+}
