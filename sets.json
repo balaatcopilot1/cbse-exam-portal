@@ -5,6 +5,11 @@
     "file": "data/physics/electric-charges-set1.json"
   },
   {
+    "subject": "Physics",
+    "title": "Electric Charges and Fields - Sample Set 2",
+    "file": "data/physics/electric-charges-set2.json"
+  },
+  {
     "subject": "Chemistry",
     "title": "Solutions - Sample Set 1",
     "file": "data/chemistry/solutions-set1.json"
