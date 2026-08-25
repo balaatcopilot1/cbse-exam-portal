@@ -1,0 +1,606 @@
+{
+  "title": "Class 12 Chemistry CBSE & JEE MCQ Question Bank - Haloalkanes and Haloarenes",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "question": "Which of the following organic compounds is classified as an allylic halide?",
+      "options": [
+        "CH<sub>2</sub> = CHCl",
+        "CH<sub>2</sub> = CHCH<sub>2</sub>Br",
+        "C<sub>6</sub>H<sub>5</sub>Cl",
+        "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>Cl"
+      ],
+      "answer": 1,
+      "explanation": "In allylic halides, the halogen atom is bonded to an sp3-hybridised carbon atom adjacent to a carbon-carbon double bond (C = C), which is the allylic carbon. CH2 = CH-CH2Br (allyl bromide) fits this definition.",
+      "topic": "Classification of Halogen Derivatives (Allylic Halides)"
+    },
+    {
+      "question": "What is the IUPAC name of the compound commonly referred to as neo-pentyl bromide?",
+      "options": [
+        "1-Bromo-2,2-dimethylpropane",
+        "2-Bromo-2-methylpropane",
+        "1-Bromobutane",
+        "2-Bromobutane"
+      ],
+      "answer": 0,
+      "explanation": "Neo-pentyl bromide has the structure (CH3)3CCH2Br. The longest continuous carbon chain has three carbon atoms (propane), with a bromine at position 1 and two methyl groups at position 2, giving 1-Bromo-2,2-dimethylpropane.",
+      "topic": "Nomenclature of Haloalkanes"
+    },
+    {
+      "question": "Based on the physical properties of alkyl halides in the source, which carbon-halogen bond has the highest bond enthalpy?",
+      "options": [
+        "CH<sub>3</sub>–F",
+        "CH<sub>3</sub>–Cl",
+        "CH<sub>3</sub>–Br",
+        "CH<sub>3</sub>–I"
+      ],
+      "answer": 0,
+      "explanation": "According to Table 6.2 in the source, the C-X bond enthalpy decreases in the order: CH3-F (452 kJ/mol) > CH3-Cl (351 kJ/mol) > CH3-Br (293 kJ/mol) > CH3-I (234 kJ/mol). Thus, CH3-F has the highest bond enthalpy.",
+      "topic": "Nature of C-X Bond (Bond Enthalpies)"
+    },
+    {
+      "question": "Why is thionyl chloride (SOCl<sub>2</sub>) preferred over other reagents for the preparation of alkyl chlorides from alcohols?",
+      "options": [
+        "It is the only reagent that reacts with primary alcohols at room temperature.",
+        "The reaction is highly endothermic and easy to control.",
+        "The byproducts (SO<sub>2</sub> and HCl) are escapable gases, leaving behind pure alkyl halide.",
+        "It prevents any rearrangement of the alkyl group."
+      ],
+      "answer": 2,
+      "explanation": "Reaction with thionyl chloride (SOCl2) is preferred because the other two byproducts, sulfur dioxide (SO2) and hydrogen chloride (HCl), are gases and easily escape the reaction mixture, yielding pure alkyl chlorides.",
+      "topic": "Methods of Preparation from Alcohols"
+    },
+    {
+      "question": "In common nomenclature, dihaloalkanes in which both halogen atoms are present on the same carbon atom of the chain are referred to as:",
+      "options": [
+        "Alkylene dihalides",
+        "Alkylidene dihalides",
+        "Vicinal dihalides",
+        "Dihaloarenes"
+      ],
+      "answer": 1,
+      "explanation": "Dihalo compounds having both halogen atoms on the same carbon atom are classified as geminal halides (gem-dihalides) and are named as alkylidene halides in the common name system.",
+      "topic": "Nomenclature of Geminal and Vicinal Halides"
+    },
+    {
+      "question": "The antiseptic properties of triiodo-methane (iodoform) are primarily due to which of the following?",
+      "options": [
+        "The active role of the intact CHI<sub>3</sub> molecule itself.",
+        "The objectionable and strong smell of iodoform.",
+        "The slow liberation of free iodine by the compound.",
+        "The presence of three highly polar carbon-iodine bonds."
+      ],
+      "answer": 2,
+      "explanation": "Iodoform was used earlier as an antiseptic, but its antiseptic properties are due to the liberation of free iodine and not due to iodoform itself. Replaced now due to its objectionable smell.",
+      "topic": "Polyhalogen Compounds (Iodoform)"
+    },
+    {
+      "question": "Which of the following methods is best suited for the synthesis of alkyl fluorides?",
+      "options": [
+        "Reaction of alcohol with concentrated HF gas in the presence of ZnCl<sub>2</sub>.",
+        "Free radical fluorination of alkanes with fluorine in the dark.",
+        "Heating an alkyl chloride or bromide in the presence of a metallic fluoride like AgF or CoF<sub>2</sub>.",
+        "Treatment of alkenes with HF in CCl<sub>4</sub> solvent."
+      ],
+      "answer": 2,
+      "explanation": "The synthesis of alkyl fluorides is best accomplished by heating an alkyl chloride/bromide in the presence of a metallic fluoride (such as AgF, Hg2F2, CoF2, SbF3). This halogen exchange reaction is known as the Swarts reaction.",
+      "topic": "Methods of Preparation (Swarts Halogen Exchange)"
+    },
+    {
+      "question": "When aryl halides are treated with sodium metal in dry ether, two aryl groups join together to form analogous biphenyl compounds. This reaction is known as:",
+      "options": [
+        "Wurtz reaction",
+        "Wurtz-Fittig reaction",
+        "Fittig reaction",
+        "Finkelstein reaction"
+      ],
+      "answer": 2,
+      "explanation": "The reaction of aryl halides with sodium in dry ether to yield biphenyl compounds in which two aryl groups are joined is called the Fittig reaction. When mixed with an alkyl halide, it is called the Wurtz-Fittig reaction.",
+      "topic": "Reaction with Metals (Fittig Reaction)"
+    },
+    {
+      "question": "The first chlorinated organic insecticide, DDT, was originally prepared in 1873. Who was awarded the Nobel Prize in Medicine and Physiology in 1948 for discovering its effectiveness as an insecticide?",
+      "options": [
+        "Victor Grignard",
+        "Paul Muller",
+        "Alexander Zaitsev",
+        "F. M. Ingold"
+      ],
+      "answer": 1,
+      "explanation": "Paul Muller of Geigy Pharmaceuticals in Switzerland discovered the effectiveness of DDT as an insecticide in 1939 and was awarded the Nobel Prize in Medicine and Physiology in 1948 for this discovery.",
+      "topic": "Polyhalogen Compounds (DDT)"
+    },
+    {
+      "question": "Although fluorine is more electronegative than chlorine, the dipole moment of chloromethane (CH<sub>3</sub>–Cl, 1.860 D) is higher than that of fluoromethane (CH<sub>3</sub>–F, 1.847 D). What is the reason for this exception?",
+      "options": [
+        "The C–F bond is highly covalent, reducing its polarity.",
+        "The extremely small size of fluorine results in a significantly shorter C–F bond length, making the charge-separation product smaller.",
+        "Chloromethane is stabilized by strong intermolecular hydrogen bonding.",
+        "The chlorine atom has a larger atomic mass than fluorine."
+      ],
+      "answer": 1,
+      "explanation": "Dipole moment is the product of charge and distance. Due to the extremely small size of fluorine, the C-F bond length in CH3-F is very short (139 pm) compared to C-Cl in CH3-Cl (178 pm). This smaller distance overrides the charge difference, giving CH3-Cl a higher dipole moment.",
+      "topic": "Nature of C-X Bond (Dipole Moment Exception)"
+    },
+    {
+      "question": "Why does para-dichlorobenzene have a significantly higher melting point compared to its corresponding ortho- and meta-isomers?",
+      "options": [
+        "The para-isomer has a higher dipole moment and stronger dipole-dipole attractions.",
+        "The para-isomer is less symmetrical, which prevents its molecules from packing too closely.",
+        "The symmetry of the para-isomer allows its molecules to fit better into the crystal lattice.",
+        "The para-isomer undergoes intramolecular hydrogen bonding."
+      ],
+      "answer": 2,
+      "explanation": "The para-isomers of dihalobenzenes have higher melting points than their ortho- and meta-isomers because of the symmetry of the para-isomers, which allows them to fit better into the crystal lattice, leading to stronger intermolecular packing.",
+      "topic": "Physical Properties of Dihalobenzenes (Melting Points)"
+    },
+    {
+      "question": "In the preparation of iodobenzene from primary aromatic amines via diazonium salts, which of the following statements is true?",
+      "options": [
+        "The reaction requires mixing the diazonium salt with cuprous iodide (CuI) catalyst.",
+        "Shaking the diazonium salt with potassium iodide (KI) is sufficient without cuprous halide.",
+        "The reaction must be carried out in the presence of concentrated H<sub>2</sub>SO<sub>4</sub> to prevent HI oxidation.",
+        "The diazonium salt is treated with cold hydriodic acid (HI) in the dark."
+      ],
+      "answer": 1,
+      "explanation": "Unlike chlorine and bromine replacement (which require cuprous chloride/bromide in the Sandmeyer's reaction), the replacement of the diazonium group by iodine does not require cuprous halide and is done simply by shaking with KI.",
+      "topic": "Methods of Preparation of Haloarenes (Sandmeyer's)"
+    },
+    {
+      "question": "When optically active (–)-2-bromooctane is reacted with sodium hydroxide, (+)-octan-2-ol is formed. This reaction proceeds with:",
+      "options": [
+        "Complete retention of configuration.",
+        "Complete inversion of configuration.",
+        "Partial racemisation due to carbocation stability.",
+        "No change in optical activity."
+      ],
+      "answer": 1,
+      "explanation": "This is an SN2 reaction because it involves a secondary halide with a strong nucleophile (OH-). In case of optically active alkyl halides, SN2 reactions proceed with complete inversion of configuration (Walden Inversion) because the nucleophile attacks from the opposite side.",
+      "topic": "Stereochemical Aspects of Nucleophilic Substitution (SN2)"
+    },
+    {
+      "question": "Reaction of ethyl bromide with KCN yields ethyl cyanide as the major product, whereas reaction with AgCN yields ethyl isocyanide as the chief product. Which statement correctly explains this difference?",
+      "options": [
+        "KCN is predominantly ionic providing free CN<sup>–</sup> where carbon attacks, while AgCN is predominantly covalent where only nitrogen's lone pair is free to attack.",
+        "AgCN is ionic and the Ag<sup>+</sup> ion promotes carbon deactivation.",
+        "KCN is predominantly covalent and nitrogen is locked, whereas AgCN is ionic.",
+        "The C–C bond is less stable than the C–N bond, favoring nitrogen attack in KCN."
+      ],
+      "answer": 0,
+      "explanation": "KCN is predominantly ionic and provides cyanide ions in solution; attack occurs via carbon since the C-C bond is more stable than C-N. AgCN is covalent and the carbon atom is bonded to silver, leaving only the nitrogen atom's lone pair free to donate and form isocyanide.",
+      "topic": "Reactions of Haloalkanes (Ambident Nucleophiles)"
+    },
+    {
+      "question": "Why do allylic and benzylic halides undergo nucleophilic substitution via the S<sub>N</sub>1 mechanism with exceptionally high rates?",
+      "options": [
+        "They are highly sterically hindered, which completely blocks the S<sub>N</sub>2 pathway.",
+        "The halogen-carbon bonds in these compounds are exceptionally weak and break easily.",
+        "The intermediate carbocations formed after halogen cleavage are stabilized through resonance.",
+        "They undergo reaction in non-polar protic solvents that destabilize the reactant."
+      ],
+      "answer": 2,
+      "explanation": "Allylic and benzylic halides show high reactivity towards SN1 reactions because the intermediate allylic or benzylic carbocations formed in the slow rate-determining step are stabilized by resonance.",
+      "topic": "Mechanism of SN1 Reaction (Resonance Stabilization)"
+    },
+    {
+      "question": "According to Saytzeff's (Zaitsev's) rule, dehydrohalogenation of 2-bromopentane with sodium ethoxide in ethanol yields pent-2-ene as the major product because:",
+      "options": [
+        "It is the least substituted alkene formed.",
+        "It has a greater number of alkyl groups attached to the doubly bonded carbon atoms, making it more stable.",
+        "The reaction is kinetically controlled to yield terminal alkenes.",
+        "It is a cis-isomer which packing fits better in crystal lattices."
+      ],
+      "answer": 1,
+      "explanation": "Saytzeff's rule states that in dehydrohalogenation, the preferred product is that alkene which has the greater number of alkyl groups attached to the doubly bonded carbon atoms. Pent-2-ene is disubstituted, whereas pent-1-ene is monosubstituted.",
+      "topic": "Elimination Reactions (Saytzeff's Rule)"
+    },
+    {
+      "question": "Under what conditions can chlorobenzene be converted into phenol using sodium hydroxide solution (Dow's Process)?",
+      "options": [
+        "Shaking with aqueous NaOH at room temperature.",
+        "Heating in aqueous NaOH at 623 K and 300 atm pressure.",
+        "Heating in aqueous NaOH at 373 K in the presence of light.",
+        "Using concentrated NaOH with ZnCl<sub>2</sub> catalyst at 273 K."
+      ],
+      "answer": 1,
+      "explanation": "Aryl halides are extremely unreactive towards nucleophilic substitution. Conversion of chlorobenzene to phenol requires harsh conditions: heating in aqueous NaOH solution at a temperature of 623 K and a pressure of 300 atmospheres.",
+      "topic": "Reactions of Haloarenes (Replacement by Hydroxyl Group)"
+    },
+    {
+      "question": "During the electrophilic aromatic substitution of chlorobenzene, how does the chlorine atom influence the reaction's reactivity and orientation?",
+      "options": [
+        "It is deactivating and meta-directing.",
+        "It is activating and ortho, para-directing.",
+        "It is deactivating and ortho, para-directing.",
+        "It is activating and meta-directing."
+      ],
+      "answer": 2,
+      "explanation": "Chlorine is slightly deactivating due to its strong electron-withdrawing inductive effect (-I effect), but due to resonance, electron density is concentrated at the ortho and para positions, making it ortho, para-directing.",
+      "topic": "Electrophilic Substitution of Haloarenes"
+    },
+    {
+      "question": "Why is it absolutely necessary to avoid even traces of moisture during the preparation and handling of a Grignard reagent?",
+      "options": [
+        "Moisture converts the active diethyl ether solvent into alcohol, which halts the reaction.",
+        "Grignard reagents are highly reactive and react with any source of proton (like water) to give hydrocarbons.",
+        "Water reacts with magnesium to form highly explosive hydrogen gas in ether.",
+        "Moisture converts the Grignard reagent into a toxic organo-mercuric compound."
+      ],
+      "answer": 1,
+      "explanation": "Grignard reagents (RMgX) are highly reactive and react with any proton donor (such as water, alcohols, or amines) which are sufficiently acidic to convert them into corresponding hydrocarbons (RH).",
+      "topic": "Reactions of Haloalkanes (Grignard Reagents)"
+    },
+    {
+      "question": "In the Finkelstein reaction of alkyl chlorides/bromides with NaI, the precipitation of NaCl or NaBr in dry acetone is significant because:",
+      "options": [
+        "It indicates that the reaction has reached completion.",
+        "It prevents the acetone from evaporating.",
+        "It facilitates the forward reaction according to Le Chatelier's Principle.",
+        "The precipitated salt acts as an inorganic catalyst."
+      ],
+      "answer": 2,
+      "explanation": "In the Finkelstein reaction, NaI dissolves in dry acetone, but NaCl and NaBr are insoluble and precipitate out. This precipitation of products shifts the equilibrium forward according to Le Chatelier's Principle.",
+      "topic": "Methods of Preparation (Finkelstein Reaction)"
+    },
+    {
+      "question": "Chloroform (trichloromethane) is stored in closed, dark-colored bottles completely filled to the brim. This precaution is taken to prevent its slow oxidation by air and light into which extremely poisonous gas?",
+      "options": [
+        "Mustard gas",
+        "Phosgene (carbonyl chloride)",
+        "Phosphine",
+        "Tear gas"
+      ],
+      "answer": 1,
+      "explanation": "Chloroform is slowly oxidized by air in the presence of light to an extremely poisonous gas called carbonyl chloride (COCl2), commonly known as phosgene. Storing it in dark, full bottles keeps out both light and air.",
+      "topic": "Polyhalogen Compounds (Chloroform Storage)"
+    },
+    {
+      "question": "A primary alkyl halide with molecular formula C<sub>4</sub>H<sub>9</sub>Br (a) reacts with sodium metal in dry ether to give a hydrocarbon C<sub>8</sub>H<sub>18</sub> (d) which is different from the octane obtained from n-butyl bromide. What is the structural formula of (a)?",
+      "options": [
+        "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>Br",
+        "(CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>Br",
+        "CH<sub>3</sub>CH<sub>2</sub>CH(Br)CH<sub>3</sub>",
+        "(CH<sub>3</sub>)<sub>3</sub>CBr"
+      ],
+      "answer": 1,
+      "explanation": "There are only two primary alkyl halide isomers of formula C4H9Br: n-butyl bromide and isobutyl bromide. Since isobutyl bromide (2) reacts with sodium (Wurtz reaction) to give 2,5-dimethylhexane (different from octane), (a) must be isobutyl bromide.",
+      "topic": "Reactions with Metals (Wurtz Reaction/Isomers)"
+    },
+    {
+      "question": "Freon 12 (CCl<sub>2</sub>F<sub>2</sub>), a highly stable and unreactive chlorofluorocarbon used in aerosol propellants and refrigeration, is manufactured from tetrachloromethane by which of the following reactions?",
+      "options": [
+        "Finkelstein reaction with NaF in dry acetone.",
+        "Swarts reaction by heating with SbF<sub>3</sub> or another metallic fluoride.",
+        "Direct free radical fluorination using F<sub>2</sub> gas and UV light.",
+        "Wurtz-type reaction of CCl<sub>4</sub> with sodium and fluorine."
+      ],
+      "answer": 1,
+      "explanation": "According to the source, Freon 12 (CCl2F2) is manufactured industrially from tetrachloromethane (carbon tetrachloride, CCl4) by Swarts reaction using metallic fluorides.",
+      "topic": "Polyhalogen Compounds (Freon 12 Production)"
+    },
+    {
+      "question": "Why is sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) NOT used when preparing alkyl iodides by reacting alcohols with potassium iodide (KI)?",
+      "options": [
+        "Sulfuric acid is too weak to displace HI from KI.",
+        "It is a strong oxidizing agent that oxidizes the intermediate HI to iodine (I<sub>2</sub>).",
+        "It causes rapid dehydration of the alcohol to form volatile ethers.",
+        "It forms a stable, unreactive complex with potassium ions."
+      ],
+      "answer": 1,
+      "explanation": "Sulfuric acid cannot be used along with KI in the conversion of an alcohol to an alkyl iodide because H2SO4 converts KI to HI, which is then oxidized by the acid to iodine (I2), preventing its reaction with the alcohol.",
+      "topic": "Methods of Preparation of Alkyl Iodides"
+    },
+    {
+      "question": "Compare the reactivity of the following primary bromides: (I) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>Br and (II) (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>Br. Which statement is correct?",
+      "options": [
+        "(I) is more reactive in S<sub>N</sub>1, and (II) is more reactive in S<sub>N</sub>2.",
+        "(II) is more reactive in S<sub>N</sub>1, and (I) is more reactive in S<sub>N</sub>2.",
+        "(I) is more reactive in both S<sub>N</sub>1 and S<sub>N</sub>2 reactions.",
+        "(II) is more reactive in both S<sub>N</sub>1 and S<sub>N</sub>2 reactions."
+      ],
+      "answer": 1,
+      "explanation": "In SN1, (II) is more reactive because the carbocation derived from (CH3)2CHCH2Br is more stable than that from (I) due to greater electron-donating inductive effect of the isopropyl group. In SN2, (I) is more reactive because the steric hindrance around the electrophilic carbon is lower than in (II), where the methyl group branching is closer to the halogen.",
+      "topic": "Mechanism of SN1 vs SN2 (Reactivity Comparisons)"
+    },
+    {
+      "question": "The hydrolysis of optically active 2-bromobutane with aqueous KOH proceeds via the S<sub>N</sub>1 mechanism and results in the formation of (±)-butan-2-ol. Why is the product optically inactive?",
+      "options": [
+        "The reaction proceeds with complete retention of the spatial arrangement.",
+        "The intermediate carbocation is planar (sp2-hybridised, achiral), allowing nucleophilic attack from either side of the plane with equal probability.",
+        "The nucleophile attacks only from the side opposite to the leaving group, completely inverting the configuration.",
+        "2-bromobutane decomposes directly into an alkene before any optical activity can be induced."
+      ],
+      "answer": 1,
+      "explanation": "In an SN1 reaction, the polarised C-X bond slowly cleaves to form a carbocation intermediate. Since this carbocation is sp2-hybridised, it is planar (achiral). The attacking nucleophile (OH-) can approach from either side of the plane with equal probability, forming a 50:50 mixture of products (racemisation), which is optically inactive.",
+      "topic": "Stereochemical Aspects of SN1 Reaction (Racemisation)"
+    },
+    {
+      "question": "Arrange the following compounds in increasing order of their reactivity towards nucleophilic substitution reactions:<br/>(I) Chlorobenzene, (II) 2,4-Dinitrochlorobenzene, (III) 4-Nitrochlorobenzene, (IV) 2,4,6-Trinitrochlorobenzene",
+      "options": [
+        "(I) &lt; (III) &lt; (II) &lt; (IV)",
+        "(IV) &lt; (II) &lt; (III) &lt; (I)",
+        "(I) &lt; (II) &lt; (III) &lt; (IV)",
+        "(III) &lt; (I) &lt; (II) &lt; (IV)"
+      ],
+      "answer": 0,
+      "explanation": "The presence of electron-withdrawing groups (-NO2) at ortho- and para-positions stabilizes the intermediate carbanion by resonance, greatly increasing reactivity towards nucleophilic substitution. Thus, reactivity increases with more nitro groups at these positions: Chlorobenzene < 4-Nitrochlorobenzene < 2,4-Dinitrochlorobenzene < 2,4,6-Trinitrochlorobenzene.",
+      "topic": "Reactions of Haloarenes (Nucleophilic Substitution)"
+    },
+    {
+      "question": "Although chlorine is an electron-withdrawing group due to its strong inductive effect (–I effect), it directs electrophilic aromatic substitution to the ortho- and para-positions. Which of the following statements correctly explains this behavior?",
+      "options": [
+        "The inductive effect is stronger than the resonance effect, which causes net electron release specifically at ortho and para positions.",
+        "Through resonance (+R effect), halogen stabilizes the intermediate carbocation specifically at ortho and para positions, opposing the deactivating inductive effect.",
+        "Resonance deactivates the meta position, leaving ortho and para positions open for attack.",
+        "Chlorine forms a stable hydrogen bond with electrophiles, holding them at the ortho position."
+      ],
+      "answer": 1,
+      "explanation": "Chlorine withdraws electrons through the inductive effect (-I) and releases them through resonance (+R). The stronger inductive effect deactivates the ring. However, the resonance effect tends to oppose the inductive effect specifically for attack at ortho- and para-positions because it stabilizes the carbocation there. Hence, orientation is controlled by resonance (ortho, para-directing) and reactivity by inductive effect (deactivating).",
+      "topic": "Electrophilic Substitution of Haloarenes (-I vs +R Effects)"
+    },
+    {
+      "question": "Why does the presence of a nitro group (–NO<sub>2</sub>) at the meta-position in chlorobenzene have no significant effect on its reactivity towards nucleophilic substitution?",
+      "options": [
+        "The meta-nitro group is sterically blocked from interacting with the nucleophile.",
+        "At the meta-position, the nitro group behaves as an electron-donating group due to hyperconjugation.",
+        "In the resonating structures of the intermediate carbanion, the negative charge never appears on the carbon atom bearing the meta-nitro group, preventing resonance stabilization.",
+        "The meta-nitro group increases the activation energy of carbocation formation."
+      ],
+      "answer": 2,
+      "explanation": "The nitro group shows its electron-withdrawing effect only at ortho- and para-positions. In meta-nitrobenzene, none of the resonating structures of the intermediate carbanion bear the negative charge on the carbon atom holding the nitro group. Therefore, the meta-nitro group cannot stabilize the negative charge, having no effect on reactivity.",
+      "topic": "Reactions of Haloarenes (Effect of Meta-Nitro Group)"
+    },
+    {
+      "question": "What properties of DDT (p,p'-Dichlorodiphenyltrichloroethane) contributed most to its long-term environmental persistence and bioaccumulation in fatty tissues of animals?",
+      "options": [
+        "Its high volatility and rapid chemical degradation by soil bacteria.",
+        "Its chemical stability, fat solubility, and extremely slow rate of metabolism by animals.",
+        "Its high water solubility and susceptibility to photolysis.",
+        "Its high toxicity to fish which promotes rapid elimination in water bodies."
+      ],
+      "answer": 1,
+      "explanation": "DDT's high chemical stability and fat solubility compounded its environmental hazards. It is not metabolized rapidly by animals; instead, it deposits and stores in fatty tissues, leading to bioaccumulation over time.",
+      "topic": "Polyhalogen Compounds (DDT Characteristics)"
+    },
+    {
+      "question": "When propene reacts with hydrogen bromide in the presence of organic peroxides, 1-bromopropane is formed as the major product. This addition reaction proceeds through which type of intermediate?",
+      "options": [
+        "A stable tertiary carbocation intermediate",
+        "A planar carbanion intermediate with localized charge",
+        "A secondary free radical intermediate",
+        "A cyclic bromonium ion transition state"
+      ],
+      "answer": 2,
+      "explanation": "The addition of HBr to alkenes in the presence of organic peroxides (anti-Markovnikov addition or Kharasch effect) is a free radical chain reaction. The reaction proceeds via a free radical intermediate. Propene reacts with Br• to form the more stable secondary free radical, which then abstracts a hydrogen atom from HBr to yield 1-bromopropane.",
+      "topic": "Preparation of Haloalkanes from Alkenes (Peroxide Effect)"
+    },
+    {
+      "question": "In a laboratory test for unsaturation, a student bubbles a hydrocarbon gas through a reddish-brown solution of bromine dissolved in carbon tetrachloride (Br<sub>2</sub>/CCl<sub>4</sub>). The solution turns colorless. What is the structural nature of the organic product formed?",
+      "options": [
+        "An alkylidene dihalide (gem-dihalide)",
+        "An alkylene dihalide (vic-dihalide)",
+        "An allyl halide with an unsaturated bond",
+        "A monochlorinated alkane isomer"
+      ],
+      "answer": 1,
+      "explanation": "In the laboratory, the addition of bromine in CCl4 to an alkene results in the discharge of the reddish-brown color of bromine. This reaction serves as an important test for the detection of double bonds in a molecule, resulting in the synthesis of vic-dibromides (alkylene dihalides) which are colorless.",
+      "topic": "Preparation of Haloalkanes from Alkenes (Addition of Halogens)"
+    },
+    {
+      "question": "An optically active alkyl halide reacts with a nucleophile, and the resulting product is found to have the same relative spatial arrangement of bonds to the asymmetric carbon as the starting reactant. What is this stereochemical process called?",
+      "options": [
+        "Inversion of configuration (Walden Inversion)",
+        "Retention of configuration",
+        "Racemisation via a symmetrical intermediate",
+        "Asymmetric optical resolution"
+      ],
+      "answer": 1,
+      "explanation": "According to the stereochemical aspects discussed in the source, retention of configuration is the preservation of the spatial integrity of the bonds to an asymmetric center during a reaction. The product has the same configuration relative to the stereocentre as the starting reactant.",
+      "topic": "Stereochemical Aspects of Nucleophilic Substitution (Retention)"
+    },
+    {
+      "question": "In the preparation of aryl chlorides from aromatic amines via Sandmeyer's reaction, what is the structure of the intermediate species formed when aniline is suspended in cold mineral acid and treated with sodium nitrite?",
+      "options": [
+        "An unstable phenyl cation",
+        "A stable aryldiazonium salt",
+        "A chlorophenyl radical complex",
+        "A cuprous-amine coordinate compound"
+      ],
+      "answer": 1,
+      "explanation": "When a primary aromatic amine (like aniline), dissolved or suspended in cold aqueous mineral acid, is treated with sodium nitrite, a diazonium salt is formed (diazotisation). Mixing the solution of freshly prepared diazonium salt with cuprous chloride or cuprous bromide replaces the diazonium group with Cl or Br.",
+      "topic": "Preparation of Haloarenes (Sandmeyer's Reaction)"
+    },
+    {
+      "question": "Direct iodination of arenes using iodine gas via electrophilic substitution is reversible in nature. To shift the equilibrium and obtain a high yield of iodoarene, the reaction must be carried out in the presence of:",
+      "options": [
+        "Anhydrous ferric chloride (FeCl<sub>3</sub>) as Lewis acid",
+        "A strong reducing agent like sodium thiosulfate",
+        "An oxidizing agent like HNO<sub>3</sub> or HIO<sub>4</sub> to destroy the byproduct HI",
+        "Concentrated sulfuric acid as a dehydrating agent"
+      ],
+      "answer": 2,
+      "explanation": "Electrophilic iodination of arenes is reversible because the byproduct hydrogen iodide (HI) is a strong reducing agent that can reduce iodoarene back to arene. The reaction requires the presence of an oxidizing agent like nitric acid (HNO3) or iodic acid (HIO4) to oxidize the HI formed during iodination back to iodine.",
+      "topic": "Preparation of Haloarenes (Electrophilic Substitution)"
+    },
+    {
+      "question": "During the electrophilic nitration of chlorobenzene using concentrated HNO<sub>3</sub> and concentrated H<sub>2</sub>SO<sub>4</sub>, which of the following represents the major organic product?",
+      "options": [
+        "1-Chloro-3-nitrobenzene",
+        "1-Chloro-4-nitrobenzene",
+        "1-Chloro-2-nitrobenzene",
+        "1-Chloro-2,4-dinitrobenzene"
+      ],
+      "answer": 1,
+      "explanation": "Chlorine is ortho and para-directing in electrophilic aromatic substitutions due to resonance (+R). Nitration of chlorobenzene yields a mixture of ortho- and para-nitrochlorobenzenes. The para-isomer (1-chloro-4-nitrobenzene) is the major product because of less steric hindrance and greater molecular symmetry.",
+      "topic": "Electrophilic Substitution of Haloarenes (Nitration)"
+    },
+    {
+      "question": "When chlorobenzene is subjected to Friedel-Crafts alkylation by reacting with methyl chloride in the presence of anhydrous aluminium chloride, which products are formed?",
+      "options": [
+        "1-Chloro-2-methylbenzene (minor) and 1-Chloro-4-methylbenzene (major)",
+        "1-Chloro-3-methylbenzene (major) only",
+        "Benzyl chloride (major) and chlorobenzene",
+        "A 1:1 mixture of 2-chlorotoluene and 3-chlorotoluene"
+      ],
+      "answer": 0,
+      "explanation": "In Friedel-Crafts alkylation of chlorobenzene with methyl chloride in the presence of anhydrous AlCl3, methyl groups are directed to ortho and para positions because halogen is ortho, para-directing. This yields 1-chloro-2-methylbenzene (minor product) and 1-chloro-4-methylbenzene (major product).",
+      "topic": "Electrophilic Substitution of Haloarenes (Friedel-Crafts Reaction)"
+    },
+    {
+      "question": "A chemist prepares ethylmagnesium bromide (a Grignard reagent) in dry diethyl ether. If this mixture is accidentally contaminated with heavy water (deuterium oxide, D<sub>2</sub>O), what organic product is formed?",
+      "options": [
+        "CH<sub>3</sub>CH<sub>2</sub>OD",
+        "CH<sub>3</sub>CH<sub>2</sub>D",
+        "CH<sub>3</sub>CH<sub>3</sub>",
+        "CH<sub>2</sub>DCH<sub>2</sub>D"
+      ],
+      "answer": 1,
+      "explanation": "Grignard reagents (RMgX) are highly reactive organometallic compounds. They react with any proton source (like water, alcohols, amines) to yield corresponding hydrocarbons. When reacted with heavy water (D2O), the carbanion R- abstracts a deuterium ion (D+), converting ethylmagnesium bromide into monodeuterated ethane (CH3CH2D).",
+      "topic": "Reactions of Haloalkanes (Grignard Reagents with Proton Donors)"
+    },
+    {
+      "question": "When a mixture of bromobenzene and ethyl bromide is heated with sodium metal in dry ether, what is the name of the major aromatic hydrocarbon product?",
+      "options": [
+        "Biphenyl",
+        "Toluene",
+        "Ethylbenzene",
+        "n-Butylbenzene"
+      ],
+      "answer": 2,
+      "explanation": "A mixture of an alkyl halide and aryl halide treated with sodium in dry ether gives an alkylbenzene. This coupling reaction is known as the Wurtz-Fittig reaction. Here, bromobenzene and ethyl bromide couple to give ethylbenzene as the major product, along with minor self-coupling byproducts (biphenyl and butane).",
+      "topic": "Reactions with Metals (Wurtz-Fittig Reaction)"
+    },
+    {
+      "question": "The nitrite ion is an ambident nucleophile. Its reaction with alkyl halides can yield either alkyl nitrites or nitroalkanes. Which statement correctly explains the reactivity of KNO<sub>2</sub> versus AgNO<sub>2</sub>?",
+      "options": [
+        "KNO<sub>2</sub> is predominantly covalent and nitrogen attacks, while AgNO<sub>2</sub> is ionic and oxygen attacks.",
+        "KNO<sub>2</sub> is ionic and oxygen attacks (forming alkyl nitrites), while AgNO<sub>2</sub> is covalent and nitrogen's lone pair attacks (forming nitroalkanes).",
+        "KNO<sub>2</sub> coordinates specifically with the alpha carbon to prevent inversion, whereas AgNO<sub>2</sub> promotes SN1 carbocation intermediates.",
+        "The potassium ion stabilizes nitroalkane formations specifically through steric protection of carbon."
+      ],
+      "answer": 1,
+      "explanation": "According to Table 6.4 and accompanying text: nitrite ion is an ambident nucleophile with two reactive centers (-O-N=O). KNO2 is predominantly ionic and provides free nitrite ions in solution, where the electronegative oxygen atom dominates the nucleophilic attack to yield alkyl nitrites. AgNO2 is predominantly covalent in nature, where the oxygen atom is bonded to silver, leaving only the nitrogen atom's lone pair free to attack, thus forming nitroalkanes.",
+      "topic": "Reactions of Haloalkanes (Ambident Nucleophile Nitrite)"
+    },
+    {
+      "question": "Which of the following organic halides is the LEAST reactive towards nucleophilic substitution reactions under standard conditions?",
+      "options": [
+        "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Cl",
+        "CH<sub>2</sub> = CHCH<sub>2</sub>Cl",
+        "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>Cl",
+        "CH<sub>2</sub> = CHCl"
+      ],
+      "answer": 3,
+      "explanation": "In vinylic halides like vinyl chloride (CH2 = CHCl) and aryl halides, the halogen is attached to an sp2-hybridised carbon. The lone pair of electrons on the halogen atom is in conjugation with the double bond, leading to resonance and giving the carbon-halogen bond partial double bond character. This makes bond cleavage extremely difficult compared to alkyl (1-chloropropane), allylic, and benzylic halides.",
+      "topic": "Reactivity of Organic Halides (Partial Double Bond Character)"
+    },
+    {
+      "question": "Arrange the following isomeric bromobutanes in the increasing order of their boiling points:<br/>(I) 1-Bromobutane, (II) 2-Bromobutane, (III) 2-Bromo-2-methylpropane",
+      "options": [
+        "(I) &lt; (II) &lt; (III)",
+        "(III) &lt; (II) &lt; (I)",
+        "(II) &lt; (III) &lt; (I)",
+        "(III) &lt; (I) &lt; (II)"
+      ],
+      "answer": 1,
+      "explanation": "Boiling points of isomeric haloalkanes decrease with an increase in branching of the carbon chain. This is because branching makes the molecule more spherical, which decreases its surface area. Consequently, intermolecular van der Waals forces of attraction are weakened, decreasing the boiling point. The order is: tertiary butyl bromide (III, b.p. 346 K) < sec-butyl bromide (II, b.p. 364 K) < n-butyl bromide (I, b.p. 375 K).",
+      "topic": "Physical Properties of Alkyl Halides (Boiling Point Trends)"
+    },
+    {
+      "question": "Predict all the alkenes that would be formed by the dehydrohalogenation of 2-chloro-2-methylbutane with sodium ethoxide in ethanol, and identify the major product as per Saytzeff's rule.",
+      "options": [
+        "2-Methylbut-1-ene (minor) and 2-Methylbut-2-ene (major)",
+        "3-Methylbut-1-ene (major) and 2-Methylbut-2-ene (minor)",
+        "Only 2-Methylbut-2-ene is formed as a single product",
+        "Pent-2-ene (major) and Pent-1-ene (minor)"
+      ],
+      "answer": 0,
+      "explanation": "Dehydrohalogenation of 2-chloro-2-methylbutane can yield two beta-elimination products: 2-methylbut-1-ene (by eliminating a hydrogen from the terminal C1 methyl group) and 2-methylbut-2-ene (by eliminating a hydrogen from the C3 methylene group). According to Saytzeff's rule, the major product is the more highly substituted alkene (2-methylbut-2-ene, which is trisubstituted and more stable) over 2-methylbut-1-ene (which is disubstituted).",
+      "topic": "Elimination Reactions (Regiochemistry and Products)"
+    },
+    {
+      "question": "Carbon tetrachloride (CCl<sub>4</sub>) was historically used as an industrial solvent, dry cleaning agent, and fire extinguisher. Which of the following environmental hazards is directly associated with its accumulation in the atmosphere?",
+      "options": [
+        "Eutrophication of lakes and waterways",
+        "Acid rain formation in industrialized zones",
+        "Depletion of the ozone layer and greenhouse effects",
+        "Heavy metal soil poisoning"
+      ],
+      "answer": 2,
+      "explanation": "According to the polyhalogen compounds section in the source, carbon tetrachloride (CCl4) is highly stable but when released into the air, it rises to the stratosphere and decomposes, liberating chlorine radicals. These radicals cause depletion of the ozone layer, which leads to increased human exposure to ultraviolet radiation.",
+      "topic": "Polyhalogen Compounds (Carbon Tetrachloride Environmental Impact)"
+    },
+    {
+      "question": "Alkyl halides are polar molecules with polar C–X bonds. However, they are virtually immiscible in water. What is the fundamental reason for their insolubility?",
+      "options": [
+        "They react violently with water to form highly insoluble coordinated hydrate crystals.",
+        "The energy released when new attractions are set up between alkyl halide and water molecules is not sufficient to overcome the strong hydrogen bonds between water molecules.",
+        "Water molecules immediately oxidize the carbon-halogen bond, releasing insoluble halogen gases.",
+        "They can only dissolve in water in the presence of strong Lewis acid catalysts."
+      ],
+      "answer": 1,
+      "explanation": "Although alkyl halides are polar, they are immiscible in water. For an alkyl halide to dissolve in water, energy is required to break the cohesive van der Waals forces holding the alkyl halide molecules together, and to break the strong hydrogen bonds between water molecules. The new attractive forces set up between alkyl halides and water are relatively weak because alkyl halides cannot form hydrogen bonds. Thus, the dissolution process is energetically unfavorable.",
+      "topic": "Physical Properties (Solubility in Water)"
+    },
+    {
+      "question": "An isomeric alkane with the molecular formula C<sub>5</sub>H<sub>12</sub> undergoes photochemical monochlorination to yield exactly three structural isomeric monochlorides. What is the IUPAC name of this parent alkane?",
+      "options": [
+        "n-Pentane",
+        "2-Methylbutane",
+        "2,2-Dimethylpropane",
+        "2-Methylpropane"
+      ],
+      "answer": 0,
+      "explanation": "The three isomeric pentanes are n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane). (1) Neopentane has 12 equivalent hydrogens, yielding only one monochloride. (2) n-Pentane has three non-equivalent types of hydrogens (C1, C2, and C3), yielding exactly three structural isomers: 1-chloropentane, 2-chloropentane, and 3-chloropentane. (3) 2-Methylbutane has four non-equivalent types of hydrogens, yielding four isomers.",
+      "topic": "Preparation of Haloalkanes from Alkanes (Isomeric Chlorination)"
+    },
+    {
+      "question": "During the nucleophilic substitution of ortho- or para-nitrochlorobenzene with hydroxide ions, how does the nitro group stabilize the intermediate carbanion (Meisenheimer-type complex)?",
+      "options": [
+        "By donating electron density to the ring through hyperconjugation.",
+        "By accommodating the negative charge on its highly electronegative oxygen atoms through resonance.",
+        "By converting the halogen into a better leaving group via direct silver-like coordination.",
+        "By forcing the carbon ring into an unstable non-planar state."
+      ],
+      "answer": 1,
+      "explanation": "In nucleophilic aromatic substitution of o- and p-nitrochlorobenzenes, the nucleophile attacks the ring carbon holding the halogen, generating a carbanion intermediate. The negative charge is delocalized over the benzene ring. Delocalization brings this charge directly onto the carbon atom bonded to the -NO2 group. The strong electron-withdrawing resonance effect (-R) of the nitro group delocalizes and accommodates this negative charge onto its electronegative oxygen atoms, stabilizing the intermediate.",
+      "topic": "Reactions of Haloarenes (Nucleophilic substitution mechanism)"
+    },
+    {
+      "question": "In the preparation of alkyl iodides from alcohols, why is orthophosphoric acid (H<sub>3</sub>PO<sub>4</sub>) preferred over concentrated sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) when reacting with potassium iodide (KI)?",
+      "options": [
+        "H<sub>3</sub>PO<sub>4</sub> is a stronger acid and dissolves KI more quickly.",
+        "H<sub>3</sub>PO<sub>4</sub> is a non-oxidising acid that does not oxidise the intermediate HI to iodine gas.",
+        "H<sub>2</sub>SO<sub>4</sub> behaves as a nucleophile and replaces the hydroxyl group itself.",
+        "H<sub>3</sub>PO<sub>4</sub> acts as a chiral solvent that yields optically pure alkyl iodides."
+      ],
+      "answer": 1,
+      "explanation": "Sulfuric acid is a strong oxidizing agent. When KI is treated with sulfuric acid, the acid converts KI to HI, but then immediately oxidizes the HI to iodine (I2), preventing its reaction with the alcohol. Orthophosphoric acid (H3PO4) is a non-oxidizing acid; it reacts with KI to generate HI in situ without oxidizing it, allowing the HI to react successfully with the alcohol to yield the alkyl iodide.",
+      "topic": "Methods of Preparation from Alcohols (Alkyl Iodides)"
+    },
+    {
+      "question": "Arrange the following primary alkyl bromides in decreasing order of their reactivity in an S<sub>N</sub>2 reaction: <br/>(I) 1-Bromobutane, (II) 1-Bromo-2-methylbutane, (III) 1-Bromo-3-methylbutane, (IV) 1-Bromo-2,2-dimethylpropane",
+      "options": [
+        "(I) &gt; (II) &gt; (III) &gt; (IV)",
+        "(I) &gt; (III) &gt; (II) &gt; (IV)",
+        "(IV) &gt; (II) &gt; (III) &gt; (I)",
+        "(I) &gt; (IV) &gt; (III) &gt; (II)"
+      ],
+      "answer": 1,
+      "explanation": "All four compounds are primary alkyl halides, so their relative reactivity in SN2 is determined by steric hindrance on or near the reaction center. Branching at the carbon adjacent to the halogenated carbon (the beta-carbon) slows down the SN2 reaction dramatically. (I) 1-Bromobutane has no branching. (III) 1-Bromo-3-methylbutane has branching at the C3 (gamma) position. (II) 1-Bromo-2-methylbutane has a methyl branch directly at the C2 (beta) position. (IV) 1-Bromo-2,2-dimethylpropane (neopentyl bromide) has extreme steric hindrance with two methyl groups on the beta-carbon. Therefore, the reactivity order is: I > III > II > IV.",
+      "topic": "Mechanism of SN2 Reactions (Steric Hindrance of Beta-Branching)"
+    },
+    {
+      "question": "Chloroform (trichloromethane) undergoes slow oxidation by air in the presence of light to form phosgene gas. Which represents the balanced chemical equation for this reaction?",
+      "options": [
+        "2CHCl<sub>3</sub> + O<sub>2</sub> &rarr; 2COCl<sub>2</sub> + 2HCl",
+        "CHCl<sub>3</sub> + O<sub>2</sub> &rarr; CO<sub>2</sub> + HCl + Cl<sub>2</sub>",
+        "2CHCl<sub>3</sub> + 2O<sub>2</sub> &rarr; 2CO<sub>2</sub> + 3Cl<sub>2</sub> + H<sub>2</sub>O",
+        "CHCl<sub>3</sub> + Cl<sub>2</sub> &rarr; CCl<sub>4</sub> + HCl"
+      ],
+      "answer": 0,
+      "explanation": "Chloroform is slowly oxidized by oxygen in the air in the presence of light to form an extremely poisonous gas, carbonyl chloride (COCl2), commonly known as phosgene. The balanced chemical equation is: 2CHCl3 + O2 -> 2COCl2 + 2HCl. To prevent this, chloroform is stored in closed, dark-colored bottles filled completely to the brim.",
+      "topic": "Polyhalogen Compounds (Chloroform Oxidation)"
+    }
+  ]
+}
