@@ -5,6 +5,11 @@
     "file": "data/physics/cbse-class12-physics-chapter4-moving-charges-magnetism-mcqs-v4.json"
   },
   {
+    "subject": "Physics",
+    "title": "Moving Charges and Magnetism - Set 2 - AI",
+    "file": "data/physics/cbse-class12-physics-chapter4-moving-charges-magnetism-mcqs-v4-set2.json"
+  },
+  {
     "subject": "Chemistry",
     "title": "Solutions - Sample Set 1",
     "file": "data/chemistry/solutions-set1.json"
